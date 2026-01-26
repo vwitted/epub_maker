@@ -1,0 +1,26 @@
+name: epub_maker
+services:
+  converter:
+    build: .
+    volumes:
+      # Mount the current directory (or a specific data dir) to /data inside container
+      # Usage: Put PDFs in a 'data' folder locally, they appear in /data
+      - ./input:/app/input
+      - ./outputs:/app/output
+      # Persist huggingface cache so models don't redownload every time
+      - hf_cache:/root/.cache/huggingface
+    ports:
+      - "2222:22"
+    # Command: convert files in /input, write to /output
+    command: [ "python3", "convert.py", "/app/input", "--output", "/app/output" ]
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+  
+volumes:
+  hf_cache:
+    
