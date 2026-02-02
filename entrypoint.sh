@@ -22,5 +22,8 @@ fi
 # Keep alive if requested
 if [ "$KEEP_ALIVE" = "1" ]; then
     echo "Command finished. KEEP_ALIVE is set, idling... (SSH access remains active)"
-    tail -f /dev/null
+    sleep 30
+else
+    echo "KEEP_ALIVE is not set. Shutting down..."
+    kill -n 15 1
 fi

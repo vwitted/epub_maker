@@ -1,0 +1,12 @@
+CASE: long_array
+  ORIG: $$ \begin{array}{cccccccccccccccccccccccccccccccccccc $$
+  FIXD: $$ \begin{array}{cccccccccccccccccccccccccccccccccccc $$
+--------------------
+CASE: printf_math
+  ORIG: $printf("Sum = %d", x)$
+  FIXD: printf("Sum = %d", x)
+--------------------
+CASE: trailing_backslash
+  ORIG: \( X(s) = G_2(s)\{G_1(s)[R(s)-H(s)X(s)] + D(s)\}\ \)
+  FIXD: \( X(s) = G_2(s)\{G_1(s)[R(s)-H(s)X(s)] + D(s)\} \)
+--------------------

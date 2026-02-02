@@ -4,6 +4,7 @@ import subprocess
 import argparse
 import multiprocessing
 from pathlib import Path
+import re
 
 def check_pandoc():
     try:
@@ -122,6 +123,57 @@ def convert_pdf_to_markdown(pdf_path, output_dir, force_cpu=False, no_ocr=False,
         print("Error: 'marker_single' command not found. Did you install marker-pdf?")
         return None
 
+def fix_latex_math(content):
+    """
+    Fixes common LaTeX math issues that Pandoc's texmath parser struggles with.
+    Specifically targets the legacy \rm command, missing braces, and misidentified code.
+    """
+    # 1. Handle \rm followed by braced text: \rm {text} -> \mathrm{text}
+    content = re.sub(r'\\rm\s*\{([^}]+)\}', r'\\mathrm{\1}', content)
+    
+    # 2. Handle \rm followed by unbraced text: \rm text -> \mathrm{text}
+    content = re.sub(r'\\rm\s*([a-zA-Z0-9]+)', r'\\mathrm{\1}', content)
+    
+    # 3. Handle any remaining \rm
+    content = content.replace(r'\rm', r'\mathrm')
+
+    # 4. Fix array definitions with excessive columns or missing closing brace
+    # Example: \begin{array}{cccc... (missing })
+    def fix_array(match):
+        spec = match.group(1)
+        if '{' in spec and '}' not in spec:
+            return match.group(0) + '}'
+        return match.group(0)
+    
+    content = re.sub(r'(\\begin\{array\}\{[c|l|r]+)', fix_array, content)
+
+    # 5. Filter out code snippets incorrectly identified as math
+    # Patterns: printf(...), cout << ..., etc.
+    code_patterns = [
+        r'printf\s*\(',
+        r'fprintf\s*\(',
+        r'cout\s*<<',
+        r'System\.out\.print',
+        r'console\.log\s*\('
+    ]
+    for pattern in code_patterns:
+        # If we find these inside $...$ or $$...$$, we unwrap them
+        # We use a non-greedy match to avoid eating multiple math blocks
+        content = re.sub(f'\\$(\\$?)([^$]*?{pattern}.*?)\\1\\$', r'\2', content, flags=re.DOTALL)
+
+    # 6. Fix trailing backslashes in math blocks
+    # Pandoc's texmath parser often fails on a trailing \ before the closing delimiter
+    # e.g., \( ... \ ) or \( ... \ \, \)
+    content = re.sub(r'\\\\\s*\\\)', r' \\)', content)
+    content = re.sub(r'\\\\\s*\\\]', r' \\]', content)
+    
+    # Also handle the specific case from logs: \}\, or similar trailing escaping backslashes
+    # Regex to find a backslash at the end of a math block
+    content = re.sub(r'(\\+)\s*\\\)', r' \)', content)
+    content = re.sub(r'(\\+)\s*\\\]', r' \]', content)
+
+    return content
+
 def convert_markdown_to_epub(md_file, output_epub_path):
     """
     Uses pypandoc to convert the markdown folder to epub.
@@ -149,10 +201,23 @@ def convert_markdown_to_epub(md_file, output_epub_path):
         cwd = os.getcwd()
         os.chdir(md_file.parent)
         
+        # Read and fix content before passing to pandoc
+        content = md_file.read_text(encoding='utf-8')
+        content = content.replace("<br>", "<br/>")
+        fixed_content = fix_latex_math(content)
+        if fixed_content != content:
+            print(f"Applied LaTeX fixes to {md_file.name}")
+            md_file.write_text(fixed_content, encoding='utf-8')
+
         try:
+            # Explicitly define input format with all common math extensions
+            # Marker often uses \( and \[ which require these extensions
+            input_format = 'markdown+tex_math_dollars+tex_math_single_backslash+tex_math_double_backslash'
+            
             output = pypandoc.convert_file(
                 str(md_file.name), 
                 'epub', 
+                format=input_format,
                 outputfile=str(output_epub_path),
                 extra_args=extra_args
             )
@@ -279,6 +344,5 @@ def main():
                 print(f"DONE. File ready at: {final_epub}")
         else:
             print(f"Skipping EPUB generation for {pdf.name} due to extraction failure.")
-
 if __name__ == "__main__":
     main()

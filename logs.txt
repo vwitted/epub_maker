@@ -1,0 +1,1516 @@
+2026-02-02T10:00:04.260480647Z Starting OpenBSD Secure Shell server: sshd.
+2026-02-02T10:00:06.130606914Z Hardware Detection: Found 1 GPU(s) with 79.2GB total VRAM.
+2026-02-02T10:00:06.160963586Z Pandoc version: 3.8.2.1
+2026-02-02T10:00:06.161371345Z No PDF files found.
+2026-02-02T10:00:06.598239642Z Command finished. KEEP_ALIVE is set, idling... (SSH access remains active)
+2026-02-02T10:00:40.783600565Z Starting OpenBSD Secure Shell server: sshd.
+2026-02-02T10:00:42.751111955Z Hardware Detection: Found 1 GPU(s) with 79.2GB total VRAM.
+2026-02-02T10:00:42.781381744Z Pandoc version: 3.8.2.1
+2026-02-02T10:00:42.781735422Z No PDF files found.
+2026-02-02T10:00:43.191940612Z Command finished. KEEP_ALIVE is set, idling... (SSH access remains active)
+2026-02-02T10:01:31.255273708Z Starting OpenBSD Secure Shell server: sshd.
+2026-02-02T10:01:33.125712231Z Hardware Detection: Found 1 GPU(s) with 79.2GB total VRAM.
+2026-02-02T10:01:33.159033708Z Pandoc version: 3.8.2.1
+2026-02-02T10:01:33.159421898Z No PDF files found.
+2026-02-02T10:01:33.538020347Z Command finished. KEEP_ALIVE is set, idling... (SSH access remains active)
+2026-02-02T10:02:14.882749870Z Starting OpenBSD Secure Shell server: sshd.
+2026-02-02T10:02:16.762827273Z Hardware Detection: Found 1 GPU(s) with 79.2GB total VRAM.
+2026-02-02T10:02:16.797774912Z Pandoc version: 3.8.2.1
+2026-02-02T10:02:16.798295043Z Found 2 PDFs to process.
+2026-02-02T10:02:16.798857888Z Processing: Mechatronics_Electronic_Control_Systems_in_Mechan_3704488_(z-lib.org).pdf
+2026-02-02T10:02:16.798865339Z --- parsing Mechatronics_Electronic_Control_Systems_in_Mechan_3704488_(z-lib.org).pdf with Marker ---
+2026-02-02T10:02:16.798871339Z Running Marker (OCR=ENABLED)...
+2026-02-02T10:12:49.532656695Z --- compiling Mechatronics_Electronic_Control_Systems_in_Mechan_3704488_(z-lib.org).md to EPUB ---
+2026-02-02T10:12:54.941043526Z [WARNING] Could not convert TeX math R_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.941114834Z   R_{\rm L}
+2026-02-02T10:12:54.941122145Z          ^
+2026-02-02T10:12:54.941128395Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941134324Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941148716Z [WARNING] Could not convert TeX math V_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.941154094Z   V_{\rm L}
+2026-02-02T10:12:54.941160223Z          ^
+2026-02-02T10:12:54.941165641Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941171030Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941176097Z [WARNING] Could not convert TeX math V_{\rm o}, rendering as TeX:
+2026-02-02T10:12:54.941181155Z   V_{\rm o}
+2026-02-02T10:12:54.941186233Z          ^
+2026-02-02T10:12:54.941191230Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941196328Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941201887Z [WARNING] Could not convert TeX math R_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.941206964Z   R_{\rm L}
+2026-02-02T10:12:54.941212032Z          ^
+2026-02-02T10:12:54.941217270Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941222969Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941239934Z [WARNING] Could not convert TeX math R_{\rm p}, rendering as TeX:
+2026-02-02T10:12:54.941245222Z   R_{\rm p}
+2026-02-02T10:12:54.941250300Z          ^
+2026-02-02T10:12:54.941255969Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941260976Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941266284Z [WARNING] Could not convert TeX math R_{\rm L}xR_{\rm p}/(R_{\rm L}+xR_{\rm p}), rendering as TeX:
+2026-02-02T10:12:54.941271943Z   R_{\rm L}xR_{\rm p}/(R_{\rm L}+xR_{\rm p
+2026-02-02T10:12:54.941276941Z          ^
+2026-02-02T10:12:54.941281918Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941287236Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941292654Z [WARNING] Could not convert TeX math \frac{V_{\rm L}}{V_{\rm s}} = \frac{xR_{\rm L}R_{\rm p}/(R_{\rm L} + xR_{\rm p})}{R_{\rm p}(1 - x) + xR_{\rm L}R_{\rm p}/(R_{\rm L} + xR_{\rm p})}, rendering as TeX:
+2026-02-02T10:12:54.941323091Z   \frac{V_{\rm L}}{V_{\rm s}} = \frac{xR_{
+2026-02-02T10:12:54.941328659Z                ^
+2026-02-02T10:12:54.941333847Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941339035Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941344223Z [WARNING] Could not convert TeX math = \frac{x}{(R_{\rm p}/R_{\rm L})x(1 - x) + 1}, rendering as TeX:
+2026-02-02T10:12:54.941349351Z   = \frac{x}{(R_{\rm p}/R_{\rm L})x(1 - x)
+2026-02-02T10:12:54.941354478Z                      ^
+2026-02-02T10:12:54.941360277Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941365585Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941370783Z [WARNING] Could not convert TeX math C = \frac{\varepsilon_{\rm r} \varepsilon_0 A}{d}, rendering as TeX:
+2026-02-02T10:12:54.941376001Z   c{\varepsilon_{\rm r} \varepsilon_0 A}{d
+2026-02-02T10:12:54.941381359Z                      ^
+2026-02-02T10:12:54.941386387Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941391675Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941403022Z [WARNING] Could not convert TeX math C_1 = \frac{\varepsilon_0 \varepsilon_{\rm r} A}{d+x}, rendering as TeX:
+2026-02-02T10:12:54.941408400Z   0 \varepsilon_{\rm r} A}{d+x}
+2026-02-02T10:12:54.941414209Z                      ^
+2026-02-02T10:12:54.941419227Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941424224Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941429512Z [WARNING] Could not convert TeX math C_2 = \frac{\varepsilon_0 \varepsilon_{\rm r} A}{d - x}, rendering as TeX:
+2026-02-02T10:12:54.941434710Z   0 \varepsilon_{\rm r} A}{d - x}
+2026-02-02T10:12:54.941439758Z                      ^
+2026-02-02T10:12:54.941444746Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941449763Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941454891Z [WARNING] Could not convert TeX math V = K_{\rm H} \frac{BI}{t}, rendering as TeX:
+2026-02-02T10:12:54.941464035Z   V = K_{\rm H} \frac{BI}{t}
+2026-02-02T10:12:54.941469163Z              ^
+2026-02-02T10:12:54.941474321Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941479599Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941484696Z [WARNING] Could not convert TeX math K_{\rm H}, rendering as TeX:
+2026-02-02T10:12:54.941489864Z   K_{\rm H}
+2026-02-02T10:12:54.941494892Z          ^
+2026-02-02T10:12:54.941500050Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941505238Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941510305Z [WARNING] Could not convert TeX math e = N\Phi_{\rm a}n\omega \sin \omega t, rendering as TeX:
+2026-02-02T10:12:54.941515353Z   e = N\Phi_{\rm a}n\omega \sin \omega t
+2026-02-02T10:12:54.941520531Z                  ^
+2026-02-02T10:12:54.941525659Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941530756Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941543486Z [WARNING] Could not convert TeX math \Delta q = k_{\rm p} \Delta t, rendering as TeX:
+2026-02-02T10:12:54.941548704Z   \Delta q = k_{\rm p} \Delta t
+2026-02-02T10:12:54.941579040Z                     ^
+2026-02-02T10:12:54.941584228Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941589295Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941594333Z [WARNING] Could not convert TeX math S_{\rm v} = (S/\varepsilon_0\varepsilon_{\rm r}), rendering as TeX:
+2026-02-02T10:12:54.941599361Z   S_{\rm v} = (S/\varepsilon_0\varepsilon_
+2026-02-02T10:12:54.941604418Z          ^
+2026-02-02T10:12:54.941610698Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941616957Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941623507Z [WARNING] Could not convert TeX math (V_{\rm in} - V_{\rm X}), rendering as TeX:
+2026-02-02T10:12:54.941630127Z   (V_{\rm in} - V_{\rm X})
+2026-02-02T10:12:54.941636667Z           ^
+2026-02-02T10:12:54.941642636Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941657449Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941664109Z [WARNING] Could not convert TeX math V_{\rm X} = 0, rendering as TeX:
+2026-02-02T10:12:54.941670989Z   V_{\rm X} = 0
+2026-02-02T10:12:54.941677850Z          ^
+2026-02-02T10:12:54.941684700Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941690800Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941696809Z [WARNING] Could not convert TeX math V_{\rm in}, rendering as TeX:
+2026-02-02T10:12:54.941702097Z   V_{\rm in}
+2026-02-02T10:12:54.941707154Z          ^
+2026-02-02T10:12:54.941712152Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941717160Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941722348Z [WARNING] Could not convert TeX math V_{\rm in} = I_1 R_1, rendering as TeX:
+2026-02-02T10:12:54.941735127Z   V_{\rm in} = I_1 R_1
+2026-02-02T10:12:54.941740425Z          ^
+2026-02-02T10:12:54.941749148Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941754216Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941760345Z [WARNING] Could not convert TeX math -V_{\rm out} = I_1 R_2, rendering as TeX:
+2026-02-02T10:12:54.941765603Z   -V_{\rm out} = I_1 R_2
+2026-02-02T10:12:54.941770601Z           ^
+2026-02-02T10:12:54.941775719Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941780867Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941785974Z [WARNING] Could not convert TeX math V_{\rm X} = \frac{R_1}{R_1 + R_2} V_{\rm out}, rendering as TeX:
+2026-02-02T10:12:54.941791112Z   V_{\rm X} = \frac{R_1}{R_1 + R_2} V_{\rm
+2026-02-02T10:12:54.941796100Z          ^
+2026-02-02T10:12:54.941801137Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941806185Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941811223Z [WARNING] Could not convert TeX math I = I_{\rm A} + I_{\rm B} + I_{\rm C}, rendering as TeX:
+2026-02-02T10:12:54.941819826Z   I = I_{\rm A} + I_{\rm B} + I_{\rm C}
+2026-02-02T10:12:54.941824964Z              ^
+2026-02-02T10:12:54.941830091Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941835079Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941841138Z [WARNING] Could not convert TeX math R_{\rm A} = R_{\rm B} = R_{\rm C} = R_1, rendering as TeX:
+2026-02-02T10:12:54.941846266Z   R_{\rm A} = R_{\rm B} = R_{\rm C} = R_1
+2026-02-02T10:12:54.941851334Z          ^
+2026-02-02T10:12:54.941856401Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941861519Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941866637Z [WARNING] Could not convert TeX math V_{\rm out} = -\frac{R_2}{R_1} (V_{\rm A} + V_{\rm B} + V_{\rm C}), rendering as TeX:
+2026-02-02T10:12:54.941872115Z   V_{\rm out} = -\frac{R_2}{R_1} (V_{\rm A
+2026-02-02T10:12:54.941877123Z          ^
+2026-02-02T10:12:54.941882130Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941891074Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941896823Z [WARNING] Could not convert TeX math \frac{v_{\rm in}}{R} = -C \frac{\mathrm{d}v_{\rm out}}{\mathrm{d}t}, rendering as TeX:
+2026-02-02T10:12:54.941901941Z   \frac{v_{\rm in}}{R} = -C \frac{\mathrm{
+2026-02-02T10:12:54.941907249Z                ^
+2026-02-02T10:12:54.941912587Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941917684Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941922682Z [WARNING] Could not convert TeX math R_{\rm in}, rendering as TeX:
+2026-02-02T10:12:54.941927670Z   R_{\rm in}
+2026-02-02T10:12:54.941932697Z          ^
+2026-02-02T10:12:54.941937765Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941942783Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941948491Z [WARNING] Could not convert TeX math \frac{V_{\rm X}}{V_2} = \frac{R_2}{R_1 + R_2}, rendering as TeX:
+2026-02-02T10:12:54.941953599Z   \frac{V_{\rm X}}{V_2} = \frac{R_2}{R_1 +
+2026-02-02T10:12:54.941966168Z                ^
+2026-02-02T10:12:54.941971376Z   unexpected control sequence \rm
+2026-02-02T10:12:54.941976504Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.941984206Z [WARNING] Could not convert TeX math V_{\rm X}, rendering as TeX:
+2026-02-02T10:12:54.941989544Z   V_{\rm X}
+2026-02-02T10:12:54.941994671Z          ^
+2026-02-02T10:12:54.941999909Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942004907Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942010656Z [WARNING] Could not convert TeX math V_{\rm out} = \frac{R_2}{R_1} (V_2 - V_1), rendering as TeX:
+2026-02-02T10:12:54.942015884Z   V_{\rm out} = \frac{R_2}{R_1} (V_2 - V_1
+2026-02-02T10:12:54.942021022Z          ^
+2026-02-02T10:12:54.942026089Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942031187Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942037226Z [WARNING] Could not convert TeX math G_{\rm CM}, rendering as TeX:
+2026-02-02T10:12:54.942046330Z   G_{\rm CM}
+2026-02-02T10:12:54.942051508Z          ^
+2026-02-02T10:12:54.942056485Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942061593Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942086822Z [WARNING] Could not convert TeX math V_{\rm CM}, rendering as TeX:
+2026-02-02T10:12:54.942106812Z   V_{\rm CM}
+2026-02-02T10:12:54.942113021Z          ^
+2026-02-02T10:12:54.942118580Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942124289Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942132251Z [WARNING] Could not convert TeX math G_{\rm CM}, rendering as TeX:
+2026-02-02T10:12:54.942137809Z   G_{\rm CM}
+2026-02-02T10:12:54.942142897Z          ^
+2026-02-02T10:12:54.942148035Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942153202Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942159292Z [WARNING] Could not convert TeX math V_{\rm Y} = \frac{R_6}{R_6 + R_7} V_{\rm out2}, rendering as TeX:
+2026-02-02T10:12:54.942171250Z   V_{\rm Y} = \frac{R_6}{R_6 + R_7} V_{\rm
+2026-02-02T10:12:54.942176558Z          ^
+2026-02-02T10:12:54.942181676Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942186703Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942192652Z [WARNING] Could not convert TeX math V_{\rm in1}, rendering as TeX:
+2026-02-02T10:12:54.942197840Z   V_{\rm in1}
+2026-02-02T10:12:54.942202878Z          ^
+2026-02-02T10:12:54.942208557Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942213845Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942221436Z [WARNING] Could not convert TeX math V_{\rm in2}, rendering as TeX:
+2026-02-02T10:12:54.942226584Z   V_{\rm in2}
+2026-02-02T10:12:54.942231592Z          ^
+2026-02-02T10:12:54.942236769Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942242017Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942251872Z [WARNING] Could not convert TeX math V_{\rm cm}, rendering as TeX:
+2026-02-02T10:12:54.942257010Z   V_{\rm cm}
+2026-02-02T10:12:54.942262128Z          ^
+2026-02-02T10:12:54.942267126Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942272063Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942286695Z [WARNING] Could not convert TeX math R_{\rm G}, rendering as TeX:
+2026-02-02T10:12:54.942292725Z   R_{\rm G}
+2026-02-02T10:12:54.942297842Z          ^
+2026-02-02T10:12:54.942302930Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942308068Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942332195Z [WARNING] Could not convert TeX math 1+50/R_{\rm G}, rendering as TeX:
+2026-02-02T10:12:54.942337673Z   1+50/R_{\rm G}
+2026-02-02T10:12:54.942342831Z               ^
+2026-02-02T10:12:54.942347818Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942353186Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942373838Z [WARNING] Could not convert TeX math R_{\rm G}, rendering as TeX:
+2026-02-02T10:12:54.942379326Z   R_{\rm G}
+2026-02-02T10:12:54.942384354Z          ^
+2026-02-02T10:12:54.942389331Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942394319Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942467851Z [WARNING] Could not convert TeX math -V_{\rm out}, rendering as TeX:
+2026-02-02T10:12:54.942483735Z   -V_{\rm out}
+2026-02-02T10:12:54.942490225Z           ^
+2026-02-02T10:12:54.942496184Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942501612Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942506810Z [WARNING] Could not convert TeX math V_{\rm in}, rendering as TeX:
+2026-02-02T10:12:54.942512048Z   V_{\rm in}
+2026-02-02T10:12:54.942517286Z          ^
+2026-02-02T10:12:54.942522474Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942527732Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942538769Z [WARNING] Could not convert TeX math V_{\rm in} = A e^{at}, rendering as TeX:
+2026-02-02T10:12:54.942544187Z   V_{\rm in} = A e^{at}
+2026-02-02T10:12:54.942560341Z          ^
+2026-02-02T10:12:54.942573742Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942579130Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942586371Z [WARNING] Could not convert TeX math V_{\rm AB} = \frac{V_{\rm s}R_1}{R_1 + R_2}, rendering as TeX:
+2026-02-02T10:12:54.942591999Z   V_{\rm AB} = \frac{V_{\rm s}R_1}{R_1 + R
+2026-02-02T10:12:54.942597127Z          ^
+2026-02-02T10:12:54.942602135Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942607403Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942612821Z [WARNING] Could not convert TeX math V_{\rm AD} = \frac{V_{\rm s}R_3}{R_3 + R_4}, rendering as TeX:
+2026-02-02T10:12:54.942618049Z   V_{\rm AD} = \frac{V_{\rm s}R_3}{R_3 + R
+2026-02-02T10:12:54.942623197Z          ^
+2026-02-02T10:12:54.942632421Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942637679Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942643828Z [WARNING] Could not convert TeX math V_{\rm o} = V_{\rm AB} - V_{\rm AD} = V_{\rm s} \left( \frac{R_1}{R_1 + R_2} - \frac{R_3}{R_3 + R_4} \right), rendering as TeX:
+2026-02-02T10:12:54.942649527Z   V_{\rm o} = V_{\rm AB} - V_{\rm AD} = V_
+2026-02-02T10:12:54.942654615Z          ^
+2026-02-02T10:12:54.942659732Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942664840Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942670028Z [WARNING] Could not convert TeX math V_{\rm o} + \delta V_{\rm o} = V_{\rm s} \left( \frac{R_1 + \delta R_1}{R_1 + \delta R_1 + R_2} - \frac{R_3}{R_3 + R_4} \right), rendering as TeX:
+2026-02-02T10:12:54.942682126Z   V_{\rm o} + \delta V_{\rm o} = V_{\rm s}
+2026-02-02T10:12:54.942687294Z          ^
+2026-02-02T10:12:54.942692392Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942701316Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942707445Z [WARNING] Could not convert TeX math \delta V_{\rm o} \approx V_{\rm s} \left( \frac{\delta R_1}{R_1 + R_2} \right), rendering as TeX:
+2026-02-02T10:12:54.942713244Z   \delta V_{\rm o} \approx V_{\rm s} \left
+2026-02-02T10:12:54.942718241Z                 ^
+2026-02-02T10:12:54.942723279Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942728237Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942733334Z [WARNING] Could not convert TeX math \delta V_{\rm o} \approx V_{\rm s} \left( \frac{\delta R_{\rm 1}}{R_{\rm 1} + R_{\rm 2}} \right) = \frac{6.0 \times 0.39}{100 + 100} = 0.012 \text{ V}, rendering as TeX:
+2026-02-02T10:12:54.942738843Z   \delta V_{\rm o} \approx V_{\rm s} \left
+2026-02-02T10:12:54.942744201Z                 ^
+2026-02-02T10:12:54.942749559Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942754667Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942774817Z [WARNING] Could not convert TeX math V_{\rm o} = \frac{6 \times 100 \times 100}{200 \times 200} \left( \frac{2 \times 6.3 \times 10^{-4} + 2 \times 2.1 \times 10^{-3}}{100} \right), rendering as TeX:
+2026-02-02T10:12:54.942780336Z   V_{\rm o} = \frac{6 \times 100 \times 10
+2026-02-02T10:12:54.942785363Z          ^
+2026-02-02T10:12:54.942790351Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942795449Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942800506Z [WARNING] Could not convert TeX math \delta V_{\rm o} \approx V_{\rm s} \left( \frac{\delta R_1}{R_1 + R_2} \right) = \frac{V_{\rm s} R_0 \alpha t}{R_0 + R_2}, rendering as TeX:
+2026-02-02T10:12:54.942805794Z   \delta V_{\rm o} \approx V_{\rm s} \left
+2026-02-02T10:12:54.942810852Z                 ^
+2026-02-02T10:12:54.942815960Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942821018Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942830552Z [WARNING] Could not convert TeX math kt = \frac{V_{\rm s}R_0\alpha t}{R_0 + R_2}, rendering as TeX:
+2026-02-02T10:12:54.942835660Z   kt = \frac{V_{\rm s}R_0\alpha t}{R_0 + R
+2026-02-02T10:12:54.942840647Z                     ^
+2026-02-02T10:12:54.942845665Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942850723Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942856441Z [WARNING] Could not convert TeX math V_{\rm A}-V_{\rm B}, rendering as TeX:
+2026-02-02T10:12:54.942861559Z   V_{\rm A}-V_{\rm B}
+2026-02-02T10:12:54.942866547Z          ^
+2026-02-02T10:12:54.942871444Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942876412Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942882120Z [WARNING] Could not convert TeX math \begin{array}{cccccccccccccccccccccccccccccccccccc, rendering as TeX:
+2026-02-02T10:12:54.942887268Z   ccccccccccccccccccc
+2026-02-02T10:12:54.942892396Z                      ^
+2026-02-02T10:12:54.942900799Z   unexpected eof
+2026-02-02T10:12:54.942906087Z   expecting letter, "|", "@", "!", "*", white space or "}"
+2026-02-02T10:12:54.942912356Z [WARNING] Could not convert TeX math V_{\rm FS}, rendering as TeX:
+2026-02-02T10:12:54.942917484Z   V_{\rm FS}
+2026-02-02T10:12:54.942922892Z          ^
+2026-02-02T10:12:54.942928000Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942933108Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942954020Z [WARNING] Could not convert TeX math V_{\rm FS}/2^n, rendering as TeX:
+2026-02-02T10:12:54.942963965Z   V_{\rm FS}/2^n
+2026-02-02T10:12:54.942970425Z          ^
+2026-02-02T10:12:54.942975763Z   unexpected control sequence \rm
+2026-02-02T10:12:54.942981281Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.942990175Z [WARNING] Could not convert TeX math V_{\rm DD}, rendering as TeX:
+2026-02-02T10:12:54.942995723Z   V_{\rm DD}
+2026-02-02T10:12:54.943001221Z          ^
+2026-02-02T10:12:54.943006359Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943015443Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943021472Z [WARNING] Could not convert TeX math 0.3V_{\rm DD}, rendering as TeX:
+2026-02-02T10:12:54.943026640Z   0.3V_{\rm DD}
+2026-02-02T10:12:54.943031558Z             ^
+2026-02-02T10:12:54.943036575Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943041613Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943049134Z [WARNING] Could not convert TeX math 0.7V_{\rm DD}, rendering as TeX:
+2026-02-02T10:12:54.943054162Z   0.7V_{\rm DD}
+2026-02-02T10:12:54.943060712Z             ^
+2026-02-02T10:12:54.943065870Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943070797Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943098680Z [WARNING] Could not convert TeX math 0.3\,V_{\rm DD}, rendering as TeX:
+2026-02-02T10:12:54.943104549Z   0.3\,V_{\rm DD}
+2026-02-02T10:12:54.943109776Z               ^
+2026-02-02T10:12:54.943122165Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943127473Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943133362Z [WARNING] Could not convert TeX math V_{\rm s}, rendering as TeX:
+2026-02-02T10:12:54.943138540Z   V_{\rm s}
+2026-02-02T10:12:54.943143548Z          ^
+2026-02-02T10:12:54.943148555Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943153643Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943159432Z [WARNING] Could not convert TeX math R_{\rm s}, rendering as TeX:
+2026-02-02T10:12:54.943164610Z   R_{\rm s}
+2026-02-02T10:12:54.943169567Z          ^
+2026-02-02T10:12:54.943174545Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943179583Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943194245Z [WARNING] Could not convert TeX math R_{\rm in}, rendering as TeX:
+2026-02-02T10:12:54.943200354Z   R_{\rm in}
+2026-02-02T10:12:54.943205682Z          ^
+2026-02-02T10:12:54.943214245Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943219513Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943225502Z [WARNING] Could not convert TeX math V_{\rm in}, rendering as TeX:
+2026-02-02T10:12:54.943230710Z   V_{\rm in}
+2026-02-02T10:12:54.943235868Z          ^
+2026-02-02T10:12:54.943240916Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943246074Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943259774Z [WARNING] Could not convert TeX math V_{\rm in} = \frac{V_{\rm s} R_{\rm in}}{R_{\rm s} + R_{\rm in}}, rendering as TeX:
+2026-02-02T10:12:54.943265693Z   V_{\rm in} = \frac{V_{\rm s} R_{\rm in}}
+2026-02-02T10:12:54.943270931Z          ^
+2026-02-02T10:12:54.943276019Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943281127Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943296811Z [WARNING] Could not convert TeX math GV_{\rm in}, rendering as TeX:
+2026-02-02T10:12:54.943306055Z   GV_{\rm in}
+2026-02-02T10:12:54.943311243Z           ^
+2026-02-02T10:12:54.943316220Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943321558Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943327367Z [WARNING] Could not convert TeX math R_{\rm out}, rendering as TeX:
+2026-02-02T10:12:54.943332705Z   R_{\rm out}
+2026-02-02T10:12:54.943337653Z          ^
+2026-02-02T10:12:54.943342680Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943347828Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943365405Z [WARNING] Could not convert TeX math V_{\rm d}, rendering as TeX:
+2026-02-02T10:12:54.943370853Z   V_{\rm d}
+2026-02-02T10:12:54.943375911Z          ^
+2026-02-02T10:12:54.943380859Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943385896Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943400138Z [WARNING] Could not convert TeX math R_{\rm d}, rendering as TeX:
+2026-02-02T10:12:54.943408901Z   R_{\rm d}
+2026-02-02T10:12:54.943414069Z          ^
+2026-02-02T10:12:54.943419627Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943424825Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943443924Z [WARNING] Could not convert TeX math V_{\rm d} = \frac{GV_{\rm in}R_{\rm d}}{R_{\rm out} + R_{\rm d}} = \frac{GV_{\rm s}R_{\rm in}R_{\rm d}}{(R_{\rm out} + R_{\rm d})(R_{\rm s} + R_{\rm in})}, rendering as TeX:
+2026-02-02T10:12:54.943449573Z   V_{\rm d} = \frac{GV_{\rm in}R_{\rm d}}{
+2026-02-02T10:12:54.943454611Z          ^
+2026-02-02T10:12:54.943459578Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943464486Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943470345Z [WARNING] Could not convert TeX math = \frac{GV_{\rm s}}{\left(\frac{R_{\rm out}}{R_{\rm s}} + 1\right)\left(\frac{R_{\rm s}}{R_{\rm s}} + 1\right)}, rendering as TeX:
+2026-02-02T10:12:54.943476183Z   = \frac{GV_{\rm s}}{\left(\frac{R_{\rm o
+2026-02-02T10:12:54.943488973Z                   ^
+2026-02-02T10:12:54.943494281Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943499459Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943505428Z [WARNING] Could not convert TeX math \frac{\delta R_3}{R_2} = \frac{\delta R_2}{R_2} = G\varepsilon_{\rm t} = -\frac{\nu GF}{AE}, rendering as TeX:
+2026-02-02T10:12:54.943510986Z    G\varepsilon_{\rm t} = -\frac{\nu GF}{A
+2026-02-02T10:12:54.943516054Z                      ^
+2026-02-02T10:12:54.943521202Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943526219Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943575114Z [WARNING] Could not convert TeX math V_{\rm o} = \frac{V_{\rm s}}{2R} (\delta R_1 - \delta R_2) = \frac{V_{\rm s} GF}{2AF} (1 + \nu), rendering as TeX:
+2026-02-02T10:12:54.943589756Z   V_{\rm o} = \frac{V_{\rm s}}{2R} (\delta
+2026-02-02T10:12:54.943595124Z          ^
+2026-02-02T10:12:54.943600072Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943608935Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943614854Z [WARNING] Could not convert TeX math V_{\rm o} = 3.09 \times 10^{-3} V_{\rm s}, rendering as TeX:
+2026-02-02T10:12:54.943620142Z   V_{\rm o} = 3.09 \times 10^{-3} V_{\rm s
+2026-02-02T10:12:54.943625190Z          ^
+2026-02-02T10:12:54.943630208Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943635165Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943653022Z [WARNING] Could not convert TeX math \delta V_{\rm o} = \frac{V_{\rm s} \delta R_1}{R_1 + R_2}, rendering as TeX:
+2026-02-02T10:12:54.943658541Z   \delta V_{\rm o} = \frac{V_{\rm s} \delt
+2026-02-02T10:12:54.943663568Z                 ^
+2026-02-02T10:12:54.943668546Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943673543Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943687985Z [WARNING] Could not convert TeX math \delta V_{\rm o} = \frac{4 \times 6.7}{126.8 + 120.1} = 0.109 \,\text{V}, rendering as TeX:
+2026-02-02T10:12:54.943697830Z   \delta V_{\rm o} = \frac{4 \times 6.7}{1
+2026-02-02T10:12:54.943702988Z                 ^
+2026-02-02T10:12:54.943708106Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943713144Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943720535Z [WARNING] Could not convert TeX math V_{\rm o} = \frac{R_2}{R_1} (V_2 - V_1), rendering as TeX:
+2026-02-02T10:12:54.943726294Z   V_{\rm o} = \frac{R_2}{R_1} (V_2 - V_1)
+2026-02-02T10:12:54.943731361Z          ^
+2026-02-02T10:12:54.943736539Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943741747Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943767757Z [WARNING] Could not convert TeX math V_{\theta} = \frac{\theta}{\theta_{\rm F}} \frac{V_{\rm s} R_{\rm p}}{R_{\rm s} + R_{\rm p}}, rendering as TeX:
+2026-02-02T10:12:54.943774096Z   theta}{\theta_{\rm F}} \frac{V_{\rm s} R
+2026-02-02T10:12:54.943779274Z                      ^
+2026-02-02T10:12:54.943788468Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943793486Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943799104Z [WARNING] Could not convert TeX math 0.01 = \frac{1}{320} \frac{4V_{\rm s}}{4+2}, rendering as TeX:
+2026-02-02T10:12:54.943804683Z   320} \frac{4V_{\rm s}}{4+2}
+2026-02-02T10:12:54.943811263Z                      ^
+2026-02-02T10:12:54.943816280Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943821348Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943827087Z [WARNING] Could not convert TeX math Q = A_{\rm V} \sqrt{\frac{\Delta P}{\rho}}, rendering as TeX:
+2026-02-02T10:12:54.943832175Z   Q = A_{\rm V} \sqrt{\frac{\Delta P}{\rho
+2026-02-02T10:12:54.943837152Z              ^
+2026-02-02T10:12:54.943842080Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943847237Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943852926Z [WARNING] Could not convert TeX math A_{\rm V}, rendering as TeX:
+2026-02-02T10:12:54.943866837Z   A_{\rm V}
+2026-02-02T10:12:54.943871995Z          ^
+2026-02-02T10:12:54.943876903Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943881990Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943893438Z [WARNING] Could not convert TeX math Q = 2.37 \times 10^{-5} C_{\rm V} \sqrt{\frac{\Delta P}{\rho}}, rendering as TeX:
+2026-02-02T10:12:54.943898525Z   mes 10^{-5} C_{\rm V} \sqrt{\frac{\Delta
+2026-02-02T10:12:54.943903683Z                      ^
+2026-02-02T10:12:54.943908671Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943913618Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943936683Z [WARNING] Could not convert TeX math Q = 0.75 \times 10^{-6} C_{\rm V} \sqrt{\frac{\Delta P}{G}}, rendering as TeX:
+2026-02-02T10:12:54.943942723Z   mes 10^{-6} C_{\rm V} \sqrt{\frac{\Delta
+2026-02-02T10:12:54.943947860Z                      ^
+2026-02-02T10:12:54.943956383Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943961541Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943967470Z [WARNING] Could not convert TeX math Q = A_{\rm V} \sqrt{\frac{\Delta P}{\rho}}, rendering as TeX:
+2026-02-02T10:12:54.943972838Z   Q = A_{\rm V} \sqrt{\frac{\Delta P}{\rho
+2026-02-02T10:12:54.943977906Z              ^
+2026-02-02T10:12:54.943982964Z   unexpected control sequence \rm
+2026-02-02T10:12:54.943988082Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.943994031Z [WARNING] Could not convert TeX math A_{\rm V} = Q\sqrt{\frac{\rho}{\Delta P}} = 0.012\sqrt{\frac{1000}{300 \times 10^3}} = 69.3 \times 10^{-5}, rendering as TeX:
+2026-02-02T10:12:54.943999329Z   A_{\rm V} = Q\sqrt{\frac{\rho}{\Delta P}
+2026-02-02T10:12:54.944004436Z          ^
+2026-02-02T10:12:54.944009364Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944014442Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944032118Z [WARNING] Could not convert TeX math \frac{\omega_{\rm A}}{\omega_{\rm B}} = \frac{\text{number of teeth on B}}{\text{number of teeth on A}} = \frac{d_{\rm B}}{d_{\rm A}}, rendering as TeX:
+2026-02-02T10:12:54.944038298Z   \frac{\omega_{\rm A}}{\omega_{\rm B}} =
+2026-02-02T10:12:54.944043295Z                     ^
+2026-02-02T10:12:54.944048363Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944053421Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944067011Z [WARNING] Could not convert TeX math G = \frac{\omega_{\rm A}}{\omega_{\rm C}}, rendering as TeX:
+2026-02-02T10:12:54.944072600Z    \frac{\omega_{\rm A}}{\omega_{\rm C}}
+2026-02-02T10:12:54.944077668Z                      ^
+2026-02-02T10:12:54.944082645Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944087733Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944101814Z [WARNING] Could not convert TeX math r_{\rm A} + r_{\rm B} = r_{\rm D} + r_{\rm C}, rendering as TeX:
+2026-02-02T10:12:54.944110728Z   r_{\rm A} + r_{\rm B} = r_{\rm D} + r_{\
+2026-02-02T10:12:54.944115866Z          ^
+2026-02-02T10:12:54.944120803Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944125821Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944136868Z [WARNING] Could not convert TeX math r_{\rm B}, rendering as TeX:
+2026-02-02T10:12:54.944142476Z   r_{\rm B}
+2026-02-02T10:12:54.944147634Z          ^
+2026-02-02T10:12:54.944152762Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944157739Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944171701Z [WARNING] Could not convert TeX math v/r_{\rm A}, rendering as TeX:
+2026-02-02T10:12:54.944177129Z   v/r_{\rm A}
+2026-02-02T10:12:54.944182146Z            ^
+2026-02-02T10:12:54.944187124Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944192232Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944197890Z [WARNING] Could not convert TeX math v/r_{\rm B}, rendering as TeX:
+2026-02-02T10:12:54.944209949Z   v/r_{\rm B}
+2026-02-02T10:12:54.944215277Z            ^
+2026-02-02T10:12:54.944220294Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944225332Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944250981Z [WARNING] Could not convert TeX math I_{\rm B}, rendering as TeX:
+2026-02-02T10:12:54.944256680Z   I_{\rm B}
+2026-02-02T10:12:54.944261747Z          ^
+2026-02-02T10:12:54.944266865Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944271993Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944277602Z [WARNING] Could not convert TeX math V_{\rm CE}, rendering as TeX:
+2026-02-02T10:12:54.944282910Z   V_{\rm CE}
+2026-02-02T10:12:54.944287967Z          ^
+2026-02-02T10:12:54.944292925Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944298123Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944303982Z [WARNING] Could not convert TeX math R_{\rm C}, rendering as TeX:
+2026-02-02T10:12:54.944312995Z   R_{\rm C}
+2026-02-02T10:12:54.944318193Z          ^
+2026-02-02T10:12:54.944323091Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944328178Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944344323Z [WARNING] Could not convert TeX math V_{\rm CE}, rendering as TeX:
+2026-02-02T10:12:54.944350753Z   V_{\rm CE}
+2026-02-02T10:12:54.944356011Z          ^
+2026-02-02T10:12:54.944360998Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944366086Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944371855Z [WARNING] Could not convert TeX math V_{\rm CE(sat)}, rendering as TeX:
+2026-02-02T10:12:54.944376993Z   V_{\rm CE(sat)}
+2026-02-02T10:12:54.944382010Z          ^
+2026-02-02T10:12:54.944387018Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944392256Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944416292Z [WARNING] Could not convert TeX math V_{\rm in}, rendering as TeX:
+2026-02-02T10:12:54.944425186Z   V_{\rm in}
+2026-02-02T10:12:54.944431475Z          ^
+2026-02-02T10:12:54.944436523Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944441771Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944447470Z [WARNING] Could not convert TeX math V_{\rm CC}, rendering as TeX:
+2026-02-02T10:12:54.944452758Z   V_{\rm CC}
+2026-02-02T10:12:54.944457775Z          ^
+2026-02-02T10:12:54.944462693Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944467590Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944481481Z [WARNING] Could not convert TeX math V_{\rm CC}, rendering as TeX:
+2026-02-02T10:12:54.944487030Z   V_{\rm CC}
+2026-02-02T10:12:54.944492228Z          ^
+2026-02-02T10:12:54.944497346Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944502353Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944508192Z [WARNING] Could not convert TeX math I_{\rm B}, rendering as TeX:
+2026-02-02T10:12:54.944516835Z   I_{\rm B}
+2026-02-02T10:12:54.944521873Z          ^
+2026-02-02T10:12:54.944526810Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944531938Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944567933Z [WARNING] Could not convert TeX math I_{\rm C} = h_{\rm FE}I_{\rm B}, rendering as TeX:
+2026-02-02T10:12:54.944577698Z   I_{\rm C} = h_{\rm FE}I_{\rm B}
+2026-02-02T10:12:54.944582946Z          ^
+2026-02-02T10:12:54.944587943Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944592931Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944598589Z [WARNING] Could not convert TeX math h_{\rm FE}, rendering as TeX:
+2026-02-02T10:12:54.944603697Z   h_{\rm FE}
+2026-02-02T10:12:54.944608715Z          ^
+2026-02-02T10:12:54.944614033Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944619131Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944632761Z [WARNING] Could not convert TeX math I_{\rm C(sat)}, rendering as TeX:
+2026-02-02T10:12:54.944638330Z   I_{\rm C(sat)}
+2026-02-02T10:12:54.944643468Z          ^
+2026-02-02T10:12:54.944648686Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944654084Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944659873Z [WARNING] Could not convert TeX math h_{\rm FE}, rendering as TeX:
+2026-02-02T10:12:54.944665081Z   h_{\rm FE}
+2026-02-02T10:12:54.944670198Z          ^
+2026-02-02T10:12:54.944675386Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944680344Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944697850Z [WARNING] Could not convert TeX math V_{\rm CE(sat)}, rendering as TeX:
+2026-02-02T10:12:54.944703239Z   V_{\rm CE(sat)}
+2026-02-02T10:12:54.944708326Z          ^
+2026-02-02T10:12:54.944713444Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944718592Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944727555Z [WARNING] Could not convert TeX math R_{\rm C}=10~\Omega, rendering as TeX:
+2026-02-02T10:12:54.944732713Z   R_{\rm C}=10~\Omega
+2026-02-02T10:12:54.944737831Z          ^
+2026-02-02T10:12:54.944742929Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944747916Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944773405Z [WARNING] Could not convert TeX math V_{\rm CC}=5~{\rm V}, rendering as TeX:
+2026-02-02T10:12:54.944779234Z   V_{\rm CC}=5~{\rm V}
+2026-02-02T10:12:54.944784412Z          ^
+2026-02-02T10:12:54.944789660Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944794708Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944800566Z [WARNING] Could not convert TeX math k_{\rm t}, rendering as TeX:
+2026-02-02T10:12:54.944805754Z   k_{\rm t}
+2026-02-02T10:12:54.944810682Z          ^
+2026-02-02T10:12:54.944815810Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944820897Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944830432Z [WARNING] Could not convert TeX math T=K_{\rm t}i, rendering as TeX:
+2026-02-02T10:12:54.944837132Z   T=K_{\rm t}i
+2026-02-02T10:12:54.944842320Z            ^
+2026-02-02T10:12:54.944847418Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944852485Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944869151Z [WARNING] Could not convert TeX math K_{\rm t}, rendering as TeX:
+2026-02-02T10:12:54.944874619Z   K_{\rm t}
+2026-02-02T10:12:54.944879687Z          ^
+2026-02-02T10:12:54.944884654Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944889682Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944914289Z [WARNING] Could not convert TeX math v_{\rm b}, rendering as TeX:
+2026-02-02T10:12:54.944919738Z   v_{\rm b}
+2026-02-02T10:12:54.944924875Z          ^
+2026-02-02T10:12:54.944929933Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944934981Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944965727Z [WARNING] Could not convert TeX math i = \frac{V - v_{\rm b}}{R} = \frac{V - k_{\rm v} \Phi \omega}{R} = \frac{V - K_{\rm v} \omega}{R}, rendering as TeX:
+2026-02-02T10:12:54.944971666Z   = \frac{V - v_{\rm b}}{R} = \frac{V - k_
+2026-02-02T10:12:54.944976774Z                      ^
+2026-02-02T10:12:54.944981952Z   unexpected control sequence \rm
+2026-02-02T10:12:54.944987220Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.944994601Z [WARNING] Could not convert TeX math K_{\rm t}=3.01~{\rm Ncm/A},~K_{\rm V}=3.15~{\rm V}, rendering as TeX:
+2026-02-02T10:12:54.944999759Z   K_{\rm t}=3.01~{\rm Ncm/A},~K_{\rm V}=3.
+2026-02-02T10:12:54.945004747Z          ^
+2026-02-02T10:12:54.945009804Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945014782Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945028323Z [WARNING] Could not convert TeX math I_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.945041823Z   I_{\rm L}
+2026-02-02T10:12:54.945047231Z          ^
+2026-02-02T10:12:54.945052199Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945057297Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945072329Z [WARNING] Could not convert TeX math I_{\rm L}\alpha, rendering as TeX:
+2026-02-02T10:12:54.945077698Z   I_{\rm L}\alpha
+2026-02-02T10:12:54.945083126Z          ^
+2026-02-02T10:12:54.945088184Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945093261Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945110898Z [WARNING] Could not convert TeX math T_{\rm M} = I_{\rm M}\alpha_{\rm M}, rendering as TeX:
+2026-02-02T10:12:54.945116416Z   T_{\rm M} = I_{\rm M}\alpha_{\rm M}
+2026-02-02T10:12:54.945121514Z          ^
+2026-02-02T10:12:54.945126492Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945131479Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945137338Z [WARNING] Could not convert TeX math T_{\rm L} = I_{\rm L}\alpha_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.945146342Z   T_{\rm L} = I_{\rm L}\alpha_{\rm L}
+2026-02-02T10:12:54.945151490Z          ^
+2026-02-02T10:12:54.945156547Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945161625Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945174495Z [WARNING] Could not convert TeX math T_{\rm M}\omega + T_{\rm L}\omega, rendering as TeX:
+2026-02-02T10:12:54.945180784Z   T_{\rm M}\omega + T_{\rm L}\omega
+2026-02-02T10:12:54.945185882Z          ^
+2026-02-02T10:12:54.945191010Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945196438Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945204020Z [WARNING] Could not convert TeX math T_{\rm M}, rendering as TeX:
+2026-02-02T10:12:54.945209228Z   T_{\rm M}
+2026-02-02T10:12:54.945214295Z          ^
+2026-02-02T10:12:54.945219463Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945224541Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945258803Z [WARNING] Could not convert TeX math T_{\rm M}\omega, rendering as TeX:
+2026-02-02T10:12:54.945265253Z   T_{\rm M}\omega
+2026-02-02T10:12:54.945270821Z          ^
+2026-02-02T10:12:54.945276149Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945284562Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945290781Z [WARNING] Could not convert TeX math T = (I_{\rm M} + I_{\rm L})\alpha, rendering as TeX:
+2026-02-02T10:12:54.945296210Z   T = (I_{\rm M} + I_{\rm L})\alpha
+2026-02-02T10:12:54.945301518Z               ^
+2026-02-02T10:12:54.945306626Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945311673Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945317622Z [WARNING] Could not convert TeX math T_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.945322760Z   T_{\rm m}
+2026-02-02T10:12:54.945327778Z          ^
+2026-02-02T10:12:54.945332715Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945341559Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945347327Z [WARNING] Could not convert TeX math T_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.945352395Z   T_{\rm L}
+2026-02-02T10:12:54.945357373Z          ^
+2026-02-02T10:12:54.945362300Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945367268Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945389652Z [WARNING] Could not convert TeX math T_{\rm L}/n, rendering as TeX:
+2026-02-02T10:12:54.945395290Z   T_{\rm L}/n
+2026-02-02T10:12:54.945400719Z          ^
+2026-02-02T10:12:54.945405626Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945412196Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945418145Z [WARNING] Could not convert TeX math I_{\rm m}\alpha_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.945423293Z   I_{\rm m}\alpha_{\rm m}
+2026-02-02T10:12:54.945428421Z          ^
+2026-02-02T10:12:54.945433518Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945445637Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945451966Z [WARNING] Could not convert TeX math I_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.945457244Z   I_{\rm m}
+2026-02-02T10:12:54.945462442Z          ^
+2026-02-02T10:12:54.945467550Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945472658Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945495953Z [WARNING] Could not convert TeX math \alpha_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.945501482Z   \alpha_{\rm m}
+2026-02-02T10:12:54.945506569Z               ^
+2026-02-02T10:12:54.945511587Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945516575Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945522554Z [WARNING] Could not convert TeX math T_{\rm m} = \frac{T_{\rm L}}{n} + I_{\rm m} \alpha_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.945527732Z   T_{\rm m} = \frac{T_{\rm L}}{n} + I_{\rm
+2026-02-02T10:12:54.945536535Z          ^
+2026-02-02T10:12:54.945541513Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945546520Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945566891Z [WARNING] Could not convert TeX math \alpha_{\rm m} = n\alpha_{\rm I}, rendering as TeX:
+2026-02-02T10:12:54.945577267Z   \alpha_{\rm m} = n\alpha_{\rm I}
+2026-02-02T10:12:54.945582435Z               ^
+2026-02-02T10:12:54.945587442Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945592570Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945606231Z [WARNING] Could not convert TeX math T_{\rm I} - T_{\rm f} = I_{\rm I} \alpha_{\rm I}, rendering as TeX:
+2026-02-02T10:12:54.945611870Z   T_{\rm I} - T_{\rm f} = I_{\rm I} \alpha
+2026-02-02T10:12:54.945617037Z          ^
+2026-02-02T10:12:54.945622015Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945627133Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945632881Z [WARNING] Could not convert TeX math T_{\rm m} = \frac{1}{n} [T_{\rm f} + \alpha_{\rm L} (I_{\rm L} + n^2 I_{\rm m})], rendering as TeX:
+2026-02-02T10:12:54.945641635Z   T_{\rm m} = \frac{1}{n} [T_{\rm f} + \al
+2026-02-02T10:12:54.945646652Z          ^
+2026-02-02T10:12:54.945651570Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945656537Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945668185Z [WARNING] Could not convert TeX math T_{\rm f}, rendering as TeX:
+2026-02-02T10:12:54.945673744Z   T_{\rm f}
+2026-02-02T10:12:54.945678851Z          ^
+2026-02-02T10:12:54.945683909Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945689007Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945711681Z [WARNING] Could not convert TeX math T_{\rm f}\omega, rendering as TeX:
+2026-02-02T10:12:54.945717320Z   T_{\rm f}\omega
+2026-02-02T10:12:54.945722327Z          ^
+2026-02-02T10:12:54.945727335Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945732453Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945741557Z [WARNING] Could not convert TeX math (I_{\rm L}\alpha)\omega, rendering as TeX:
+2026-02-02T10:12:54.945746734Z   (I_{\rm L}\alpha)\omega
+2026-02-02T10:12:54.945752223Z           ^
+2026-02-02T10:12:54.945757281Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945762328Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945776299Z [WARNING] Could not convert TeX math I_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.945782008Z   I_{\rm L}
+2026-02-02T10:12:54.945787096Z          ^
+2026-02-02T10:12:54.945792154Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945797241Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945813646Z [WARNING] Could not convert TeX math P = T_{\rm f}\omega + I_{\rm L}\alpha\omega, rendering as TeX:
+2026-02-02T10:12:54.945819305Z   P = T_{\rm f}\omega + I_{\rm L}\alpha\om
+2026-02-02T10:12:54.945824302Z              ^
+2026-02-02T10:12:54.945837563Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945842871Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945848920Z [WARNING] Could not convert TeX math V_{\rm RH}, rendering as TeX:
+2026-02-02T10:12:54.945854058Z   V_{\rm RH}
+2026-02-02T10:12:54.945859155Z          ^
+2026-02-02T10:12:54.945864173Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945869231Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945874969Z [WARNING] Could not convert TeX math V_{\rm RL}, rendering as TeX:
+2026-02-02T10:12:54.945880037Z   V_{\rm RL}
+2026-02-02T10:12:54.945885025Z          ^
+2026-02-02T10:12:54.945890052Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945895020Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945919317Z [WARNING] Could not convert TeX math V_{\rm RH}, rendering as TeX:
+2026-02-02T10:12:54.945924915Z   V_{\rm RH}
+2026-02-02T10:12:54.945929963Z          ^
+2026-02-02T10:12:54.945938426Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945943433Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945949242Z [WARNING] Could not convert TeX math V_{\rm LH}, rendering as TeX:
+2026-02-02T10:12:54.945954490Z   V_{\rm LH}
+2026-02-02T10:12:54.945959578Z          ^
+2026-02-02T10:12:54.945964646Z   unexpected control sequence \rm
+2026-02-02T10:12:54.945969663Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.945979789Z [WARNING] Could not convert TeX math V_{\rm RH}, rendering as TeX:
+2026-02-02T10:12:54.945984977Z   V_{\rm RH}
+2026-02-02T10:12:54.945990024Z          ^
+2026-02-02T10:12:54.945995112Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946000160Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946025468Z [WARNING] Could not convert TeX math V_{\rm DD}, rendering as TeX:
+2026-02-02T10:12:54.946030846Z   V_{\rm DD}
+2026-02-02T10:12:54.946035924Z          ^
+2026-02-02T10:12:54.946044427Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946049435Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946055203Z [WARNING] Could not convert TeX math V_{\rm LH}, rendering as TeX:
+2026-02-02T10:12:54.946060311Z   V_{\rm LH}
+2026-02-02T10:12:54.946065379Z          ^
+2026-02-02T10:12:54.946070477Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946075464Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946090157Z [WARNING] Could not convert TeX math V_{\rm SS}, rendering as TeX:
+2026-02-02T10:12:54.946095955Z   V_{\rm SS}
+2026-02-02T10:12:54.946103236Z          ^
+2026-02-02T10:12:54.946108374Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946113642Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946119481Z [WARNING] Could not convert TeX math V_{\rm DD}, rendering as TeX:
+2026-02-02T10:12:54.946124659Z   V_{\rm DD}
+2026-02-02T10:12:54.946129747Z          ^
+2026-02-02T10:12:54.946138740Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946143888Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946152511Z [WARNING] Could not convert TeX math V_{\rm DD}, rendering as TeX:
+2026-02-02T10:12:54.946157609Z   V_{\rm DD}
+2026-02-02T10:12:54.946162667Z          ^
+2026-02-02T10:12:54.946167664Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946172642Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946187404Z [WARNING] Could not convert TeX math printf("Sum = %d", x), rendering as TeX:
+2026-02-02T10:12:54.946193013Z   printf("Sum = %d", x)
+2026-02-02T10:12:54.946198221Z          ^
+2026-02-02T10:12:54.946203148Z   unexpected '"'
+2026-02-02T10:12:54.946208556Z   expecting "\\bangle", "\\brace", "\\brack", "\\choose", "\\displaystyle", "\\textstyle", "\\scriptstyle", "\\scriptscriptstyle", "{", "\\operatorname", letter, digit, ".", "!", "'", "''", "'''", "''''", "*", "+", ",", "-", ".", "/", ":", ":=", ";", "<", "=", ">", "?", "@", "~", "_", "^", "'", "\\left", "\\lVert", "\\", "\\hyperref" or end of input
+2026-02-02T10:12:54.946231501Z [WARNING] Could not convert TeX math \begin{array}{cccccccccccccccccccccccccccccccccccc, rendering as TeX:
+2026-02-02T10:12:54.946237000Z   ccccccccccccccccccc
+2026-02-02T10:12:54.946242007Z                      ^
+2026-02-02T10:12:54.946247015Z   unexpected eof
+2026-02-02T10:12:54.946252123Z   expecting letter, "|", "@", "!", "*", white space or "}"
+2026-02-02T10:12:54.946264251Z [WARNING] Could not convert TeX math v_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.946269950Z   v_{\rm L}
+2026-02-02T10:12:54.946275078Z          ^
+2026-02-02T10:12:54.946280245Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946285293Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946298463Z [WARNING] Could not convert TeX math v = iR + v_{\rm I}, rendering as TeX:
+2026-02-02T10:12:54.946303941Z   v = iR + v_{\rm I}
+2026-02-02T10:12:54.946309079Z                   ^
+2026-02-02T10:12:54.946314057Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946322690Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946335219Z [WARNING] Could not convert TeX math i = \frac{1}{L} \int v_{\rm L} \mathrm{d}t, rendering as TeX:
+2026-02-02T10:12:54.946340948Z   {1}{L} \int v_{\rm L} \mathrm{d}t
+2026-02-02T10:12:54.946346055Z                      ^
+2026-02-02T10:12:54.946351133Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946356161Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946368850Z [WARNING] Could not convert TeX math v = \frac{R}{L} \int v_{\rm L} \, \mathrm{d}t + v_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.946374429Z   {R}{L} \int v_{\rm L} \, \mathrm{d}t + v
+2026-02-02T10:12:54.946379697Z                      ^
+2026-02-02T10:12:54.946384744Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946389812Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946400248Z [WARNING] Could not convert TeX math v_{\rm C}, rendering as TeX:
+2026-02-02T10:12:54.946409161Z   v_{\rm C}
+2026-02-02T10:12:54.946414299Z          ^
+2026-02-02T10:12:54.946419367Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946424324Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946441671Z [WARNING] Could not convert TeX math q = \frac{T_{\rm L} - T}{R}, rendering as TeX:
+2026-02-02T10:12:54.946447199Z   q = \frac{T_{\rm L} - T}{R}
+2026-02-02T10:12:54.946452427Z                    ^
+2026-02-02T10:12:54.946457545Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946462563Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946468231Z [WARNING] Could not convert TeX math T_{\rm in} - T_{\rm out} = I \frac{\mathrm{d}\omega}{\mathrm{d}t}, rendering as TeX:
+2026-02-02T10:12:54.946473429Z   T_{\rm in} - T_{\rm out} = I \frac{\math
+2026-02-02T10:12:54.946478407Z          ^
+2026-02-02T10:12:54.946483324Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946488392Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946503004Z [WARNING] Could not convert TeX math T_{\rm in} - T_{\rm out} = \frac{I}{r} \frac{\mathrm{d}v}{\mathrm{d}t}, rendering as TeX:
+2026-02-02T10:12:54.946508683Z   T_{\rm in} - T_{\rm out} = \frac{I}{r} \
+2026-02-02T10:12:54.946513851Z          ^
+2026-02-02T10:12:54.946518788Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946523786Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946547001Z [WARNING] Could not convert TeX math T_{\rm in} - rcv = \left(\frac{I}{r} + mr\right) \frac{\mathrm{d}v}{\mathrm{d}t}, rendering as TeX:
+2026-02-02T10:12:54.946566481Z   T_{\rm in} - rcv = \left(\frac{I}{r} + m
+2026-02-02T10:12:54.946571658Z          ^
+2026-02-02T10:12:54.946576666Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946581664Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946587432Z [WARNING] Could not convert TeX math v_{\rm h} = k_2 B \omega, rendering as TeX:
+2026-02-02T10:12:54.946599991Z   v_{\rm h} = k_2 B \omega
+2026-02-02T10:12:54.946605340Z          ^
+2026-02-02T10:12:54.946610417Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946615505Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946621264Z [WARNING] Could not convert TeX math v_{\rm a} - v_{\rm b} = L_{\rm a} \frac{\mathrm{d}i_{\rm a}}{\mathrm{d}t} + R_{\rm a}i_{\rm a}, rendering as TeX:
+2026-02-02T10:12:54.946626662Z   v_{\rm a} - v_{\rm b} = L_{\rm a} \frac{
+2026-02-02T10:12:54.946631750Z          ^
+2026-02-02T10:12:54.946636717Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946641655Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946659612Z [WARNING] Could not convert TeX math L_{\rm f}, rendering as TeX:
+2026-02-02T10:12:54.946665171Z   L_{\rm f}
+2026-02-02T10:12:54.946670198Z          ^
+2026-02-02T10:12:54.946675216Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946680173Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946689207Z [WARNING] Could not convert TeX math R_{\rm f}, rendering as TeX:
+2026-02-02T10:12:54.946694275Z   R_{\rm f}
+2026-02-02T10:12:54.946699342Z          ^
+2026-02-02T10:12:54.946704380Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946709498Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946722998Z [WARNING] Could not convert TeX math v_{\rm f} = R_{\rm f} i_{\rm f} + L_{\rm f} \frac{\mathrm{d}i_{\rm f}}{\mathrm{d}t}, rendering as TeX:
+2026-02-02T10:12:54.946729088Z   v_{\rm f} = R_{\rm f} i_{\rm f} + L_{\rm
+2026-02-02T10:12:54.946734446Z          ^
+2026-02-02T10:12:54.946739584Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946745272Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946767867Z [WARNING] Could not convert TeX math v_{\rm f} = R_{\rm f} i_{\rm f} + L_{\rm f} \frac{{
+2026-02-02T10:12:54.946773475Z   m d} i_{\rm f}}{{
+2026-02-02T10:12:54.946778513Z   m d} t}, rendering as TeX:
+2026-02-02T10:12:54.946787086Z   v_{\rm f} = R_{\rm f} i_{\rm f} + L_{\rm
+2026-02-02T10:12:54.946792144Z          ^
+2026-02-02T10:12:54.946797121Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946802139Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946808078Z [WARNING] Could not convert TeX math I \frac{{
+2026-02-02T10:12:54.946814768Z   m d} \omega}{{
+2026-02-02T10:12:54.946819806Z   m d} t} = k_5 i_{\rm f} - c \omega, rendering as TeX:
+2026-02-02T10:12:54.946824873Z   d} t} = k_5 i_{\rm f} - c \omega
+2026-02-02T10:12:54.946829951Z                      ^
+2026-02-02T10:12:54.946835009Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946839996Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946845575Z [WARNING] Could not convert TeX math q = c_{\rm d} A \sqrt{\frac{2(p_1 - p_2)}{\rho}}, rendering as TeX:
+2026-02-02T10:12:54.946850703Z   q = c_{\rm d} A \sqrt{\frac{2(p_1 - p_2)
+2026-02-02T10:12:54.946855850Z              ^
+2026-02-02T10:12:54.946864704Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946869751Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946875350Z [WARNING] Could not convert TeX math q_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.946880438Z   q_{\rm L}
+2026-02-02T10:12:54.946885566Z          ^
+2026-02-02T10:12:54.946890623Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946895601Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946901540Z [WARNING] Could not convert TeX math q_{\rm L} = m_4 (\Delta p_1 - \Delta p_2), rendering as TeX:
+2026-02-02T10:12:54.946906708Z   q_{\rm L} = m_4 (\Delta p_1 - \Delta p_2
+2026-02-02T10:12:54.946911976Z          ^
+2026-02-02T10:12:54.946917073Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946921971Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946938806Z [WARNING] Could not convert TeX math \omega_{\rm n}^2 = \frac{k}{m}, rendering as TeX:
+2026-02-02T10:12:54.946958446Z   \omega_{\rm n}^2 = \frac{k}{m}
+2026-02-02T10:12:54.946963674Z               ^
+2026-02-02T10:12:54.946968712Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946973689Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.946979318Z [WARNING] Could not convert TeX math x = A \sin \omega_{\rm p} t, rendering as TeX:
+2026-02-02T10:12:54.946984516Z   A \sin \omega_{\rm p} t
+2026-02-02T10:12:54.946989564Z                      ^
+2026-02-02T10:12:54.946994611Z   unexpected control sequence \rm
+2026-02-02T10:12:54.946999579Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947005428Z [WARNING] Could not convert TeX math s = -\zeta \omega_{\rm n} \pm \omega_{\rm n} \sqrt{\zeta^2 - 1}, rendering as TeX:
+2026-02-02T10:12:54.947010666Z   -\zeta \omega_{\rm n} \pm \omega_{\rm n}
+2026-02-02T10:12:54.947015703Z                      ^
+2026-02-02T10:12:54.947020801Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947025959Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947041362Z [WARNING] Could not convert TeX math x_{\rm n} = (At + B) e^{-\omega_{\rm n}t}, rendering as TeX:
+2026-02-02T10:12:54.947047141Z   x_{\rm n} = (At + B) e^{-\omega_{\rm n}t
+2026-02-02T10:12:54.947052289Z          ^
+2026-02-02T10:12:54.947057657Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947062675Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947076165Z [WARNING] Could not convert TeX math s = -\zeta \omega_{\rm n} \pm j \omega_{\rm n} \sqrt{1 - \zeta^2}, rendering as TeX:
+2026-02-02T10:12:54.947081443Z   -\zeta \omega_{\rm n} \pm j \omega_{\rm
+2026-02-02T10:12:54.947086551Z                      ^
+2026-02-02T10:12:54.947091559Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947096696Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947115475Z [WARNING] Could not convert TeX math x_{\rm n} = {\rm e}^{-\zeta\omega_{\rm n}t}(P\cos\omega t + Q\sin\omega t), rendering as TeX:
+2026-02-02T10:12:54.947121704Z   x_{\rm n} = {\rm e}^{-\zeta\omega_{\rm n
+2026-02-02T10:12:54.947126752Z          ^
+2026-02-02T10:12:54.947131800Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947136757Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947143998Z [WARNING] Could not convert TeX math \omega_{\rm n}^2 = \frac{a_0}{a_2}, rendering as TeX:
+2026-02-02T10:12:54.947149206Z   \omega_{\rm n}^2 = \frac{a_0}{a_2}
+2026-02-02T10:12:54.947154334Z               ^
+2026-02-02T10:12:54.947159322Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947164349Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947188556Z [WARNING] Could not convert TeX math \omega_{\rm n}^2 = \frac{1}{LC} = \frac{1}{2.0 \times 20 \times 10^{-6}}, rendering as TeX:
+2026-02-02T10:12:54.947194145Z   \omega_{\rm n}^2 = \frac{1}{LC} = \frac{
+2026-02-02T10:12:54.947199232Z               ^
+2026-02-02T10:12:54.947204310Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947209919Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947215467Z [WARNING] Could not convert TeX math \omega_{\rm n}=158, rendering as TeX:
+2026-02-02T10:12:54.947220625Z   \omega_{\rm n}=158
+2026-02-02T10:12:54.947225642Z               ^
+2026-02-02T10:12:54.947230600Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947235517Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947250751Z [WARNING] Could not convert TeX math \omega = \omega_{\rm n} \sqrt{1 - \zeta^2} = 158 \sqrt{1 - 0.16^2} = 156 \,\text{Hz}, rendering as TeX:
+2026-02-02T10:12:54.947256730Z   mega = \omega_{\rm n} \sqrt{1 - \zeta^2}
+2026-02-02T10:12:54.947261757Z                      ^
+2026-02-02T10:12:54.947266955Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947271933Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947293726Z [WARNING] Could not convert TeX math Q = \frac{\zeta \omega_{\rm n} P}{\omega} = -\frac{\zeta \omega_{\rm n} V}{\omega} = -\frac{0.16 \times 158 V}{156} \approx -0.16 \text{ V}, rendering as TeX:
+2026-02-02T10:12:54.947304072Z   {\zeta \omega_{\rm n} P}{\omega} = -\fra
+2026-02-02T10:12:54.947309580Z                      ^
+2026-02-02T10:12:54.947314588Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947319725Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947325544Z [WARNING] Could not convert TeX math \omega t_{\rm p} = \pi, rendering as TeX:
+2026-02-02T10:12:54.947330682Z   \omega t_{\rm p} = \pi
+2026-02-02T10:12:54.947335700Z                 ^
+2026-02-02T10:12:54.947340727Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947345735Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947351454Z [WARNING] Could not convert TeX math t_{\rm s} = \frac{4}{\zeta \omega_{\rm n}}, rendering as TeX:
+2026-02-02T10:12:54.947356491Z   t_{\rm s} = \frac{4}{\zeta \omega_{\rm n
+2026-02-02T10:12:54.947361539Z          ^
+2026-02-02T10:12:54.947367117Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947372175Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947397143Z [WARNING] Could not convert TeX math t_{\rm s} = \frac{3}{\zeta \omega_{\rm n}}, rendering as TeX:
+2026-02-02T10:12:54.947402641Z   t_{\rm s} = \frac{3}{\zeta \omega_{\rm n
+2026-02-02T10:12:54.947407779Z          ^
+2026-02-02T10:12:54.947412727Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947417895Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947423724Z [WARNING] Could not convert TeX math \frac{4/\zeta \omega_{\rm n}}{2\pi/\omega}, rendering as TeX:
+2026-02-02T10:12:54.947428901Z   /\zeta \omega_{\rm n}}{2\pi/\omega}
+2026-02-02T10:12:54.947433929Z                      ^
+2026-02-02T10:12:54.947439007Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947443974Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947464546Z [WARNING] Could not convert TeX math t_{\rm r} = \frac{\pi}{2 \times 1.8} = 0.87 \,{\rm s}, rendering as TeX:
+2026-02-02T10:12:54.947470535Z   t_{\rm r} = \frac{\pi}{2 \times 1.8} = 0
+2026-02-02T10:12:54.947475743Z          ^
+2026-02-02T10:12:54.947480760Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947485828Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947506610Z [WARNING] Could not convert TeX math t_{\rm s} = \frac{4}{\zeta \omega_{\rm p}} = \frac{4}{0.44 \times 2.0} = 4.5 \,{\rm s}, rendering as TeX:
+2026-02-02T10:12:54.947512338Z   t_{\rm s} = \frac{4}{\zeta \omega_{\rm p
+2026-02-02T10:12:54.947517346Z          ^
+2026-02-02T10:12:54.947522434Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947527371Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947533030Z [WARNING] Could not convert TeX math x_{\rm n} = (At + B) e^{-\omega_{\rm n}t}, rendering as TeX:
+2026-02-02T10:12:54.947538077Z   x_{\rm n} = (At + B) e^{-\omega_{\rm n}t
+2026-02-02T10:12:54.947543606Z          ^
+2026-02-02T10:12:54.947548663Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947569986Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947577477Z [WARNING] Could not convert TeX math x_{\rm SS}, rendering as TeX:
+2026-02-02T10:12:54.947582635Z   x_{\rm SS}
+2026-02-02T10:12:54.947587653Z          ^
+2026-02-02T10:12:54.947592650Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947597698Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947623077Z [WARNING] Could not convert TeX math \omega t_{\rm r} = \frac{1}{2}\pi, rendering as TeX:
+2026-02-02T10:12:54.947630197Z   \omega t_{\rm r} = \frac{1}{2}\pi
+2026-02-02T10:12:54.947636146Z                 ^
+2026-02-02T10:12:54.947642176Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947648365Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947655596Z [WARNING] Could not convert TeX math t_{\rm p}, rendering as TeX:
+2026-02-02T10:12:54.947668456Z   t_{\rm p}
+2026-02-02T10:12:54.947675196Z          ^
+2026-02-02T10:12:54.947680394Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947685642Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947691551Z [WARNING] Could not convert TeX math \omega t_{\rm p} = \pi, rendering as TeX:
+2026-02-02T10:12:54.947696739Z   \omega t_{\rm p} = \pi
+2026-02-02T10:12:54.947701856Z                 ^
+2026-02-02T10:12:54.947706894Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947711992Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947717680Z [WARNING] Could not convert TeX math t_{\rm s} = \frac{4}{\zeta \omega_{\rm n}}, rendering as TeX:
+2026-02-02T10:12:54.947722878Z   t_{\rm s} = \frac{4}{\zeta \omega_{\rm n
+2026-02-02T10:12:54.947728046Z          ^
+2026-02-02T10:12:54.947733264Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947738432Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947758342Z [WARNING] Could not convert TeX math X(s) = \frac{b_0 \omega_{\rm n}^2}{s(s + p_1)(s + p_2)}, rendering as TeX:
+2026-02-02T10:12:54.947763810Z   ac{b_0 \omega_{\rm n}^2}{s(s + p_1)(s +
+2026-02-02T10:12:54.947768938Z                      ^
+2026-02-02T10:12:54.947773986Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947779104Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947810131Z [WARNING] Could not convert TeX math p = \frac{-2\zeta\omega_{\rm n} \pm \sqrt{4\zeta^2\omega_{\rm n}^2 - 4\omega_{\rm n}^2}}{2}, rendering as TeX:
+2026-02-02T10:12:54.947815719Z   -2\zeta\omega_{\rm n} \pm \sqrt{4\zeta^2
+2026-02-02T10:12:54.947820837Z                      ^
+2026-02-02T10:12:54.947825805Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947830872Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947852856Z [WARNING] Could not convert TeX math p = \frac{-2\zeta\omega_{\rm n} \pm \sqrt{4\zeta^2\omega_{\rm n}^2 - 4\omega_{\rm n}^2}}{2} = -\zeta\omega_{\rm n} \pm \omega_{\rm n}\sqrt{\zeta^2 - 1}, rendering as TeX:
+2026-02-02T10:12:54.947858935Z   -2\zeta\omega_{\rm n} \pm \sqrt{4\zeta^2
+2026-02-02T10:12:54.947863893Z                      ^
+2026-02-02T10:12:54.947868850Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947873858Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947879566Z [WARNING] Could not convert TeX math \left[1-\left(\frac{\omega}{\omega_{\rm n}}\right)^2\right]-j2\zeta\left(\frac{\omega}{\omega_{\rm n}}\right), rendering as TeX:
+2026-02-02T10:12:54.947884734Z   omega}{\omega_{\rm n}}\right)^2\right]-j
+2026-02-02T10:12:54.947889782Z                      ^
+2026-02-02T10:12:54.947894970Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947900108Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947925186Z [WARNING] Could not convert TeX math |G(j\omega)| = \frac{1}{\sqrt{\left[1 - \left(\frac{\omega}{\omega_{\rm n}}\right)^2\right]^2 + \left[2\zeta\left(\frac{\omega}{\omega_{\rm n}}\right)\right]^2}}, rendering as TeX:
+2026-02-02T10:12:54.947931686Z   omega}{\omega_{\rm n}}\right)^2\right]^2
+2026-02-02T10:12:54.947936723Z                      ^
+2026-02-02T10:12:54.947941781Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947946729Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947952487Z [WARNING] Could not convert TeX math G(s) = \frac{\omega_{\rm n}^2}{s^2 + 2\zeta\omega_{\rm n}s + \omega_{\rm n}^2}, rendering as TeX:
+2026-02-02T10:12:54.947957515Z    \frac{\omega_{\rm n}^2}{s^2 + 2\zeta\om
+2026-02-02T10:12:54.947962502Z                      ^
+2026-02-02T10:12:54.947967450Z   unexpected control sequence \rm
+2026-02-02T10:12:54.947972378Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.947993229Z [WARNING] Could not convert TeX math |G(j\omega)| = \frac{1}{\sqrt{\left[1 - \left(\frac{\omega}{\omega_{\rm n}}\right)^2\right]^2 + \left[2\zeta\left(\frac{\omega}{\omega_{\rm n}}\right)\right]^2}}, rendering as TeX:
+2026-02-02T10:12:54.948003825Z   omega}{\omega_{\rm n}}\right)^2\right]^2
+2026-02-02T10:12:54.948009153Z                      ^
+2026-02-02T10:12:54.948014231Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948019519Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948025238Z [WARNING] Could not convert TeX math \tan \phi = -\frac{2\zeta \left(\frac{\omega}{\omega_{\rm n}}\right)}{1 - \left(\frac{\omega}{\omega_{\rm n}}\right)^2}, rendering as TeX:
+2026-02-02T10:12:54.948030856Z   omega}{\omega_{\rm n}}\right)}{1 - \left
+2026-02-02T10:12:54.948035884Z                      ^
+2026-02-02T10:12:54.948040852Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948045889Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948058518Z [WARNING] Could not convert TeX math 0.707 = \frac{1}{\sqrt{1 + \omega_{\rm c}^2 (RC)^2}}, rendering as TeX:
+2026-02-02T10:12:54.948067001Z   rt{1 + \omega_{\rm c}^2 (RC)^2}}
+2026-02-02T10:12:54.948072400Z                      ^
+2026-02-02T10:12:54.948077547Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948082735Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948093562Z [WARNING] Could not convert TeX math 1 + \omega_{\rm c}^2 (RC)^2 = (1/0.707)^2 = 2, rendering as TeX:
+2026-02-02T10:12:54.948099230Z   1 + \omega_{\rm c}^2 (RC)^2 = (1/0.707)^
+2026-02-02T10:12:54.948104398Z                   ^
+2026-02-02T10:12:54.948109356Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948114303Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948130298Z [WARNING] Could not convert TeX math X(s) = G_2(s)\{G_1(s)[R(s)-H(s)X(s)] + D(s)\}\, rendering as TeX:
+2026-02-02T10:12:54.948135776Z   H(s)X(s)] + D(s)\}\
+2026-02-02T10:12:54.948140854Z                      ^
+2026-02-02T10:12:54.948145931Z   unexpected eof
+2026-02-02T10:12:54.948161896Z [WARNING] Could not convert TeX math K_{\rm P}e, rendering as TeX:
+2026-02-02T10:12:54.948167754Z   K_{\rm P}e
+2026-02-02T10:12:54.948173163Z          ^
+2026-02-02T10:12:54.948178180Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948183298Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948197289Z [WARNING] Could not convert TeX math K_{\rm P}, rendering as TeX:
+2026-02-02T10:12:54.948202617Z   K_{\rm P}
+2026-02-02T10:12:54.948207705Z          ^
+2026-02-02T10:12:54.948213033Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948218321Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948236319Z [WARNING] Could not convert TeX math V_{\rm out} = K_{\rm P} V_{\rm e} + V_0, rendering as TeX:
+2026-02-02T10:12:54.948242779Z   V_{\rm out} = K_{\rm P} V_{\rm e} + V_0
+2026-02-02T10:12:54.948248037Z          ^
+2026-02-02T10:12:54.948253154Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948258132Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948271873Z [WARNING] Could not convert TeX math K_{\rm p}, rendering as TeX:
+2026-02-02T10:12:54.948277872Z   K_{\rm p}
+2026-02-02T10:12:54.948282849Z          ^
+2026-02-02T10:12:54.948287797Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948292865Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948306776Z [WARNING] Could not convert TeX math E(s) = \frac{K_{\rm p}G(s)}{1 + K_{\rm p}G(s)}R(s), rendering as TeX:
+2026-02-02T10:12:54.948311964Z   (s) = \frac{K_{\rm p}G(s)}{1 + K_{\rm p}
+2026-02-02T10:12:54.948316951Z                      ^
+2026-02-02T10:12:54.948321979Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948326926Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948345625Z [WARNING] Could not convert TeX math K_{\rm D} \frac{\mathrm{d}e}{\mathrm{d}t}, rendering as TeX:
+2026-02-02T10:12:54.948350813Z   K_{\rm D} \frac{\mathrm{d}e}{\mathrm{d}t
+2026-02-02T10:12:54.948355790Z          ^
+2026-02-02T10:12:54.948360798Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948365695Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948377513Z [WARNING] Could not convert TeX math K_{\rm D}, rendering as TeX:
+2026-02-02T10:12:54.948382811Z   K_{\rm D}
+2026-02-02T10:12:54.948387889Z          ^
+2026-02-02T10:12:54.948392967Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948398185Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948409572Z [WARNING] Could not convert TeX math K_{\rm p}e + K_{\rm D}\frac{{\rm d}e}{{\rm d}t}, rendering as TeX:
+2026-02-02T10:12:54.948415291Z   K_{\rm p}e + K_{\rm D}\frac{{\rm d}e}{{\
+2026-02-02T10:12:54.948420499Z          ^
+2026-02-02T10:12:54.948425516Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948430594Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948455712Z [WARNING] Could not convert TeX math K_{\rm D} \left( s + \frac{1}{T_{\rm D}} \right), rendering as TeX:
+2026-02-02T10:12:54.948463184Z   K_{\rm D} \left( s + \frac{1}{T_{\rm D}}
+2026-02-02T10:12:54.948470435Z          ^
+2026-02-02T10:12:54.948477295Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948484456Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948492698Z [WARNING] Could not convert TeX math \frac{1}{s}K_{\rm I}, rendering as TeX:
+2026-02-02T10:12:54.948499749Z   \frac{1}{s}K_{\rm I}
+2026-02-02T10:12:54.948506239Z                     ^
+2026-02-02T10:12:54.948511317Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948516394Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948522113Z [WARNING] Could not convert TeX math I_{\rm out} = I_0, rendering as TeX:
+2026-02-02T10:12:54.948527251Z   I_{\rm out} = I_0
+2026-02-02T10:12:54.948532309Z          ^
+2026-02-02T10:12:54.948537557Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948542664Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948575895Z [WARNING] Could not convert TeX math K_{\rm P}e + K_{\rm I} \int e \, \mathrm{d}t, rendering as TeX:
+2026-02-02T10:12:54.948585860Z   K_{\rm P}e + K_{\rm I} \int e \, \mathrm
+2026-02-02T10:12:54.948590978Z          ^
+2026-02-02T10:12:54.948595935Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948600953Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948624208Z [WARNING] Could not convert TeX math K_{\rm P} + \frac{K_{\rm I}}{s} = \frac{K_{\rm P}}{s} \left(s + \frac{1}{T_{\rm I}}\right), rendering as TeX:
+2026-02-02T10:12:54.948630057Z   K_{\rm P} + \frac{K_{\rm I}}{s} = \frac{
+2026-02-02T10:12:54.948635285Z          ^
+2026-02-02T10:12:54.948640383Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948645521Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948659862Z [WARNING] Could not convert TeX math T_{\rm I} = K_{\rm P}/K_{\rm I}, rendering as TeX:
+2026-02-02T10:12:54.948665391Z   T_{\rm I} = K_{\rm P}/K_{\rm I}
+2026-02-02T10:12:54.948670459Z          ^
+2026-02-02T10:12:54.948675466Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948680965Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948688125Z [WARNING] Could not convert TeX math K_{\rm P}e + K_{\rm I} \int e \, dt + K_{\rm D} \frac{\mathrm{d}e}{\mathrm{d}t}, rendering as TeX:
+2026-02-02T10:12:54.948693373Z   K_{\rm P}e + K_{\rm I} \int e \, dt + K_
+2026-02-02T10:12:54.948698311Z          ^
+2026-02-02T10:12:54.948703409Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948708296Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948732142Z [WARNING] Could not convert TeX math (s) = K_{\rm p}E(s) + \frac{1}{s}K_{\rm I}E(s) + sK_{\rm D}(s), rendering as TeX:
+2026-02-02T10:12:54.948737781Z   (s) = K_{\rm p}E(s) + \frac{1}{s}K_{\rm
+2026-02-02T10:12:54.948742799Z                ^
+2026-02-02T10:12:54.948747826Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948752714Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948763590Z [WARNING] Could not convert TeX math K_{\rm P}, rendering as TeX:
+2026-02-02T10:12:54.948773936Z   K_{\rm P}
+2026-02-02T10:12:54.948779354Z          ^
+2026-02-02T10:12:54.948784332Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948789439Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948795258Z [WARNING] Could not convert TeX math R_{\rm I}/(R+R_{\rm D}), rendering as TeX:
+2026-02-02T10:12:54.948800496Z   R_{\rm I}/(R+R_{\rm D})
+2026-02-02T10:12:54.948805604Z          ^
+2026-02-02T10:12:54.948810682Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948815719Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948829961Z [WARNING] Could not convert TeX math K_{\rm D}, rendering as TeX:
+2026-02-02T10:12:54.948835600Z   K_{\rm D}
+2026-02-02T10:12:54.948840737Z          ^
+2026-02-02T10:12:54.948845725Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948850853Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948868960Z [WARNING] Could not convert TeX math R_{\rm D}C_{\rm D}, rendering as TeX:
+2026-02-02T10:12:54.948874839Z   R_{\rm D}C_{\rm D}
+2026-02-02T10:12:54.948880187Z          ^
+2026-02-02T10:12:54.948885225Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948890413Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948896081Z [WARNING] Could not convert TeX math K_{\rm I}, rendering as TeX:
+2026-02-02T10:12:54.948901269Z   K_{\rm I}
+2026-02-02T10:12:54.948906567Z          ^
+2026-02-02T10:12:54.948911705Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948916963Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948932226Z [WARNING] Could not convert TeX math 1/R_{\rm I}C_{\rm I}, rendering as TeX:
+2026-02-02T10:12:54.948937895Z   1/R_{\rm I}C_{\rm I}
+2026-02-02T10:12:54.948943213Z            ^
+2026-02-02T10:12:54.948948401Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948953449Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.948969874Z [WARNING] Could not convert TeX math K_{\rm P} + \frac{1}{s}K_{\rm I} + sK_{\rm D}, rendering as TeX:
+2026-02-02T10:12:54.948975492Z   K_{\rm P} + \frac{1}{s}K_{\rm I} + sK_{\
+2026-02-02T10:12:54.948980530Z          ^
+2026-02-02T10:12:54.948985477Z   unexpected control sequence \rm
+2026-02-02T10:12:54.948990445Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949005157Z [WARNING] Could not convert TeX math x_n = K_{\rm p}e_n + K_{\rm I}\left(\frac{(e_n + e_{n-1})T_{\rm s}}{2} + {\rm Int}_{\rm prev}\right) + K_{\rm D}\frac{e_n - e_{n-1}}{T_{\rm s}}, rendering as TeX:
+2026-02-02T10:12:54.949010636Z   x_n = K_{\rm p}e_n + K_{\rm I}\left(\fra
+2026-02-02T10:12:54.949015753Z                ^
+2026-02-02T10:12:54.949020761Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949025949Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949031658Z [WARNING] Could not convert TeX math G(s) = \frac{K_{\rm P}G_{\rm p}(s)}{1 + K_{\rm P}G_{\rm p}(s)}, rendering as TeX:
+2026-02-02T10:12:54.949037366Z   (s) = \frac{K_{\rm P}G_{\rm p}(s)}{1 + K
+2026-02-02T10:12:54.949042394Z                      ^
+2026-02-02T10:12:54.949049044Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949054162Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949073291Z [WARNING] Could not convert TeX math G(s) = \frac{K_{\rm P}/(\tau s + 1)}{1 + K_{\rm P}/(\tau s + 1)} = \frac{K_{\rm P}}{\tau s + 1 + K_{\rm P}}, rendering as TeX:
+2026-02-02T10:12:54.949078539Z   (s) = \frac{K_{\rm P}/(\tau s + 1)}{1 +
+2026-02-02T10:12:54.949083556Z                      ^
+2026-02-02T10:12:54.949088634Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949093682Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949107403Z [WARNING] Could not convert TeX math y = K_{\rm P}(1 - {\rm e}^{-t/(\tau/1 + K_{\rm P})}), rendering as TeX:
+2026-02-02T10:12:54.949113272Z   y = K_{\rm P}(1 - {\rm e}^{-t/(\tau/1 +
+2026-02-02T10:12:54.949123828Z              ^
+2026-02-02T10:12:54.949129096Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949134133Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949139852Z [WARNING] Could not convert TeX math \tau/(1 + K_{\rm P}), rendering as TeX:
+2026-02-02T10:12:54.949145050Z   \tau/(1 + K_{\rm P})
+2026-02-02T10:12:54.949150268Z                    ^
+2026-02-02T10:12:54.949155376Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949160563Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949185081Z [WARNING] Could not convert TeX math K_{\rm P}, rendering as TeX:
+2026-02-02T10:12:54.949190779Z   K_{\rm P}
+2026-02-02T10:12:54.949195847Z          ^
+2026-02-02T10:12:54.949200825Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949205872Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949212362Z [WARNING] Could not convert TeX math K_{\rm I}G_{\rm n}(s)/s, rendering as TeX:
+2026-02-02T10:12:54.949217931Z   K_{\rm I}G_{\rm n}(s)/s
+2026-02-02T10:12:54.949223028Z          ^
+2026-02-02T10:12:54.949227996Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949233024Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949238832Z [WARNING] Could not convert TeX math G(s) = \frac{K_{\rm I}G_{\rm p}(s)}{s + K_{\rm I}G_{\rm p}(s)}, rendering as TeX:
+2026-02-02T10:12:54.949243970Z   (s) = \frac{K_{\rm I}G_{\rm p}(s)}{s + K
+2026-02-02T10:12:54.949248988Z                      ^
+2026-02-02T10:12:54.949254056Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949259334Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949283140Z [WARNING] Could not convert TeX math G(s) = \frac{K_{\rm I}/(\tau s + 1)}{s + K_{\rm I}/(\tau s + 1)} = \frac{K_{\rm I}}{s(\tau s + 1) + K_{\rm I}} = \frac{K_{\rm I}}{\tau s^2 + s + K_{\rm I}}, rendering as TeX:
+2026-02-02T10:12:54.949289129Z   (s) = \frac{K_{\rm I}/(\tau s + 1)}{s +
+2026-02-02T10:12:54.949294237Z                      ^
+2026-02-02T10:12:54.949299745Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949304763Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949310451Z [WARNING] Could not convert TeX math G(s) = \frac{sK_{\rm D}G_{\rm p}(s)}{1 + K_{\rm D}G_{\rm p}(s)}, rendering as TeX:
+2026-02-02T10:12:54.949315829Z   s) = \frac{sK_{\rm D}G_{\rm p}(s)}{1 + K
+2026-02-02T10:12:54.949321107Z                      ^
+2026-02-02T10:12:54.949326105Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949331083Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949351183Z [WARNING] Could not convert TeX math G(s) = \frac{sK_{\rm D}/(\tau s + 1)}{1 + sK_{\rm D}/(\tau s + 1)} = \frac{sK_{\rm D}}{\tau s + 1 + sK_{\rm D}}, rendering as TeX:
+2026-02-02T10:12:54.949356671Z   s) = \frac{sK_{\rm D}/(\tau s + 1)}{1 +
+2026-02-02T10:12:54.949361789Z                      ^
+2026-02-02T10:12:54.949366827Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949371855Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949383723Z [WARNING] Could not convert TeX math K_{\rm P} = \frac{1.2P}{RL} = \frac{1.2 \times 6}{0.017 \times 150} = 2.82, rendering as TeX:
+2026-02-02T10:12:54.949389501Z   K_{\rm P} = \frac{1.2P}{RL} = \frac{1.2
+2026-02-02T10:12:54.949394579Z          ^
+2026-02-02T10:12:54.949399497Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949404534Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949410403Z [WARNING] Could not convert TeX math T_{\rm I} = 2L = 300 \, \rm s, rendering as TeX:
+2026-02-02T10:12:54.949415771Z   T_{\rm I} = 2L = 300 \, \rm s
+2026-02-02T10:12:54.949420839Z          ^
+2026-02-02T10:12:54.949425777Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949430674Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949453509Z [WARNING] Could not convert TeX math T_{\rm D} = 0.5L = 0.5 \times 150 = 75 \,\mathrm{s}, rendering as TeX:
+2026-02-02T10:12:54.949463404Z   T_{\rm D} = 0.5L = 0.5 \times 150 = 75 \
+2026-02-02T10:12:54.949468802Z          ^
+2026-02-02T10:12:54.949473900Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949479007Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949484716Z [WARNING] Could not convert TeX math K_{\rm P}, rendering as TeX:
+2026-02-02T10:12:54.949489834Z   K_{\rm P}
+2026-02-02T10:12:54.949494852Z          ^
+2026-02-02T10:12:54.949499849Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949504877Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949526520Z [WARNING] Could not convert TeX math K_{\rm Pc}, rendering as TeX:
+2026-02-02T10:12:54.949532158Z   K_{\rm Pc}
+2026-02-02T10:12:54.949537276Z          ^
+2026-02-02T10:12:54.949542294Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949547301Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949562484Z [WARNING] Could not convert TeX math T_{\rm c}, rendering as TeX:
+2026-02-02T10:12:54.949568243Z   T_{\rm c}
+2026-02-02T10:12:54.949573381Z          ^
+2026-02-02T10:12:54.949578378Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949583466Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949602054Z [WARNING] Could not convert TeX math T_{\rm c}/1.2, rendering as TeX:
+2026-02-02T10:12:54.949608875Z   T_{\rm c}/1.2
+2026-02-02T10:12:54.949614273Z          ^
+2026-02-02T10:12:54.949619341Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949624559Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949630408Z [WARNING] Could not convert TeX math T_{\rm c}/2.0, rendering as TeX:
+2026-02-02T10:12:54.949635595Z   T_{\rm c}/2.0
+2026-02-02T10:12:54.949640613Z          ^
+2026-02-02T10:12:54.949645621Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949650708Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949669237Z [WARNING] Could not convert TeX math T_{\rm c}/8, rendering as TeX:
+2026-02-02T10:12:54.949675035Z   T_{\rm c}/8
+2026-02-02T10:12:54.949680163Z          ^
+2026-02-02T10:12:54.949685181Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949690148Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949706273Z [WARNING] Could not convert TeX math v - v_{\rm b} = L \frac{\mathrm{d}i}{\mathrm{d}t} + Ri, rendering as TeX:
+2026-02-02T10:12:54.949711811Z   v - v_{\rm b} = L \frac{\mathrm{d}i}{\ma
+2026-02-02T10:12:54.949716909Z              ^
+2026-02-02T10:12:54.949722047Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949727064Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949737090Z [WARNING] Could not convert TeX math v_{\rm b} = -k_{\rm b} \frac{\rm d}{{\rm d}t} \cos \theta = k_{\rm b} \sin \theta \frac{{\rm d}\theta}{{\rm d}t}, rendering as TeX:
+2026-02-02T10:12:54.949742298Z   v_{\rm b} = -k_{\rm b} \frac{\rm d}{{\rm
+2026-02-02T10:12:54.949747315Z          ^
+2026-02-02T10:12:54.949752673Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949757701Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949780315Z [WARNING] Could not convert TeX math v - k_{\rm b} \sin \theta \frac{\mathrm{d}\theta}{\mathrm{d}t} = L \frac{\mathrm{d}i}{\mathrm{d}t} + Ri, rendering as TeX:
+2026-02-02T10:12:54.949785904Z   v - k_{\rm b} \sin \theta \frac{\mathrm{
+2026-02-02T10:12:54.949790922Z              ^
+2026-02-02T10:12:54.949796009Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949801017Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949806736Z [WARNING] Could not convert TeX math t_{\rm s}, rendering as TeX:
+2026-02-02T10:12:54.949811793Z   t_{\rm s}
+2026-02-02T10:12:54.949822089Z          ^
+2026-02-02T10:12:54.949827127Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949832164Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949839415Z [WARNING] Could not convert TeX math t_{\rm s} = 4/\zeta \omega_{\rm n}, rendering as TeX:
+2026-02-02T10:12:54.949849230Z   t_{\rm s} = 4/\zeta \omega_{\rm n}
+2026-02-02T10:12:54.949854458Z          ^
+2026-02-02T10:12:54.949859396Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949864363Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949870102Z [WARNING] Could not convert TeX math \zeta \omega_{\rm n} = 1, rendering as TeX:
+2026-02-02T10:12:54.949875280Z   \zeta \omega_{\rm n} = 1
+2026-02-02T10:12:54.949880357Z                     ^
+2026-02-02T10:12:54.949885345Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949890543Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949916302Z [WARNING] Could not convert TeX math F = G_{\rm c}G_{\rm a}(y_{\rm s}-y) = m\frac{{\rm d}^2y}{{\rm d}t^2} + k\frac{{\rm d}y}{{\rm d}t}, rendering as TeX:
+2026-02-02T10:12:54.949922081Z   F = G_{\rm c}G_{\rm a}(y_{\rm s}-y) = m\
+2026-02-02T10:12:54.949927319Z              ^
+2026-02-02T10:12:54.949932507Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949937935Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949943944Z [WARNING] Could not convert TeX math y_{\rm s} = \frac{m}{G_{\rm c}G_{\rm a}} \frac{\mathrm{d}^2 y}{\mathrm{d}t^2} + \frac{k}{G_{\rm c}G_{\rm a}} \frac{\mathrm{d}y}{\mathrm{d}t} + y, rendering as TeX:
+2026-02-02T10:12:54.949949282Z   y_{\rm s} = \frac{m}{G_{\rm c}G_{\rm a}}
+2026-02-02T10:12:54.949954320Z          ^
+2026-02-02T10:12:54.949959338Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949964325Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.949976253Z [WARNING] Could not convert TeX math \omega_{\rm n} = \sqrt{\frac{G_{\rm c}G_{\rm a}}{m}}, rendering as TeX:
+2026-02-02T10:12:54.949981712Z   \omega_{\rm n} = \sqrt{\frac{G_{\rm c}G_
+2026-02-02T10:12:54.949986659Z               ^
+2026-02-02T10:12:54.949991637Z   unexpected control sequence \rm
+2026-02-02T10:12:54.949996604Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950019930Z [WARNING] Could not convert TeX math \zeta = \frac{k}{2\sqrt{G_{\rm c}G_{\rm a}m}}, rendering as TeX:
+2026-02-02T10:12:54.950025738Z   c{k}{2\sqrt{G_{\rm c}G_{\rm a}m}}
+2026-02-02T10:12:54.950030796Z                      ^
+2026-02-02T10:12:54.950035724Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950040711Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950046400Z [WARNING] Could not convert TeX math G_{\rm e}(s) = \frac{K}{\tau s + 1}, rendering as TeX:
+2026-02-02T10:12:54.950051548Z   G_{\rm e}(s) = \frac{K}{\tau s + 1}
+2026-02-02T10:12:54.950056605Z          ^
+2026-02-02T10:12:54.950061693Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950066701Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950079520Z [WARNING] Could not convert TeX math T_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.950085159Z   T_{\rm L}
+2026-02-02T10:12:54.950090226Z          ^
+2026-02-02T10:12:54.950095745Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950100863Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950123537Z [WARNING] Could not convert TeX math G_{\rm e}(s) = \frac{K {\rm e}^{-sT_{\rm L}}}{\tau s + 1}, rendering as TeX:
+2026-02-02T10:12:54.950129366Z   G_{\rm e}(s) = \frac{K {\rm e}^{-sT_{\rm
+2026-02-02T10:12:54.950134684Z          ^
+2026-02-02T10:12:54.950140002Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950145460Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950151339Z [WARNING] Could not convert TeX math G(s) = \frac{k/Rc}{s(\tau_{\rm L}s + 1)}, rendering as TeX:
+2026-02-02T10:12:54.950156477Z   {k/Rc}{s(\tau_{\rm L}s + 1)}
+2026-02-02T10:12:54.950161485Z                      ^
+2026-02-02T10:12:54.950166843Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950171891Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950184590Z [WARNING] Could not convert TeX math V_{\rm a}, rendering as TeX:
+2026-02-02T10:12:54.950195527Z   V_{\rm a}
+2026-02-02T10:12:54.950200855Z          ^
+2026-02-02T10:12:54.950205822Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950210780Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950224971Z [WARNING] Could not convert TeX math V_{\rm b}, rendering as TeX:
+2026-02-02T10:12:54.950230229Z   V_{\rm b}
+2026-02-02T10:12:54.950235387Z          ^
+2026-02-02T10:12:54.950241647Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950248617Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950264471Z [WARNING] Could not convert TeX math V_{\rm c}, rendering as TeX:
+2026-02-02T10:12:54.950270430Z   V_{\rm c}
+2026-02-02T10:12:54.950275478Z          ^
+2026-02-02T10:12:54.950280486Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950285503Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950291312Z [WARNING] Could not convert TeX math (V_{\rm a}-V_{\rm b}), rendering as TeX:
+2026-02-02T10:12:54.950296971Z   (V_{\rm a}-V_{\rm b})
+2026-02-02T10:12:54.950302028Z           ^
+2026-02-02T10:12:54.950307086Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950312104Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950334928Z [WARNING] Could not convert TeX math V_{\rm b}, rendering as TeX:
+2026-02-02T10:12:54.950340437Z   V_{\rm b}
+2026-02-02T10:12:54.950345505Z          ^
+2026-02-02T10:12:54.950350702Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950355840Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950361529Z [WARNING] Could not convert TeX math (V_{\rm c}-V_{\rm b}), rendering as TeX:
+2026-02-02T10:12:54.950366717Z   (V_{\rm c}-V_{\rm b})
+2026-02-02T10:12:54.950371915Z           ^
+2026-02-02T10:12:54.950377042Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950382130Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950404394Z [WARNING] Could not convert TeX math (V_{\rm a}-V_{\rm b})/4, rendering as TeX:
+2026-02-02T10:12:54.950410193Z   (V_{\rm a}-V_{\rm b})/4
+2026-02-02T10:12:54.950415230Z           ^
+2026-02-02T10:12:54.950420108Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950425116Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950436463Z [WARNING] Could not convert TeX math V_{\rm b}/3, rendering as TeX:
+2026-02-02T10:12:54.950441831Z   V_{\rm b}/3
+2026-02-02T10:12:54.950447049Z          ^
+2026-02-02T10:12:54.950452157Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950457174Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950468612Z [WARNING] Could not convert TeX math V_{\rm c}/3, rendering as TeX:
+2026-02-02T10:12:54.950474100Z   V_{\rm c}/3
+2026-02-02T10:12:54.950479318Z          ^
+2026-02-02T10:12:54.950484215Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950489273Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950504326Z [WARNING] Could not convert TeX math \frac{V_{\rm a} - V_{\rm b}}{4} + \frac{V_{\rm c} - V_{\rm b}}{2} = \frac{V_{\rm b}}{3}, rendering as TeX:
+2026-02-02T10:12:54.950509684Z   \frac{V_{\rm a} - V_{\rm b}}{4} + \frac{
+2026-02-02T10:12:54.950514832Z                ^
+2026-02-02T10:12:54.950519739Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950524607Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950538268Z [WARNING] Could not convert TeX math \frac{10 - V_{\rm b}}{4} + \frac{5 - V_{\rm b}}{2} = \frac{V_{\rm b}}{3}, rendering as TeX:
+2026-02-02T10:12:54.950543536Z   \frac{10 - V_{\rm b}}{4} + \frac{5 - V_{
+2026-02-02T10:12:54.950548543Z                     ^
+2026-02-02T10:12:54.950570937Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950576045Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950581724Z [WARNING] Could not convert TeX math E_{\rm Th} = 5 \, \frac{20}{20 + 5} = 4 \, \rm V, rendering as TeX:
+2026-02-02T10:12:54.950598980Z   E_{\rm Th} = 5 \, \frac{20}{20 + 5} = 4
+2026-02-02T10:12:54.950604118Z          ^
+2026-02-02T10:12:54.950609045Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950614053Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950619831Z [WARNING] Could not convert TeX math R_{\rm Th} = 4 + \frac{20 \times 5}{20 + 5} = 8\Omega, rendering as TeX:
+2026-02-02T10:12:54.950624939Z   R_{\rm Th} = 4 + \frac{20 \times 5}{20 +
+2026-02-02T10:12:54.950630087Z          ^
+2026-02-02T10:12:54.950635315Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950640393Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950666963Z [WARNING] Could not convert TeX math I_{\rm sc} = I_1 - I_2, rendering as TeX:
+2026-02-02T10:12:54.950672512Z   I_{\rm sc} = I_1 - I_2
+2026-02-02T10:12:54.950677579Z          ^
+2026-02-02T10:12:54.950682607Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950687825Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950694104Z [WARNING] Could not convert TeX math I_{\rm sc} = 0.5, rendering as TeX:
+2026-02-02T10:12:54.950699282Z   I_{\rm sc} = 0.5
+2026-02-02T10:12:54.950704430Z          ^
+2026-02-02T10:12:54.950709448Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950714505Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950728877Z [WARNING] Could not convert TeX math R_{\rm N} = \frac{10 \times 10}{10 + 10} = 5 \ \Omega, rendering as TeX:
+2026-02-02T10:12:54.950734586Z   R_{\rm N} = \frac{10 \times 10}{10 + 10}
+2026-02-02T10:12:54.950739604Z          ^
+2026-02-02T10:12:54.950744631Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950749679Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950765964Z [WARNING] Could not convert TeX math i = I_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.950771612Z   i = I_{\rm m}
+2026-02-02T10:12:54.950776700Z              ^
+2026-02-02T10:12:54.950781758Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950787226Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950800256Z [WARNING] Could not convert TeX math v = RI_{\rm m} \sin \omega t, rendering as TeX:
+2026-02-02T10:12:54.950805834Z   v = RI_{\rm m} \sin \omega t
+2026-02-02T10:12:54.950810962Z               ^
+2026-02-02T10:12:54.950815940Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950820997Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950835900Z [WARNING] Could not convert TeX math V_{\rm m} = RI_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.950841368Z   V_{\rm m} = RI_{\rm m}
+2026-02-02T10:12:54.950846396Z          ^
+2026-02-02T10:12:54.950851303Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950856451Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950868540Z [WARNING] Could not convert TeX math i=I_{\rm m}\sin\omega t, rendering as TeX:
+2026-02-02T10:12:54.950874418Z   i=I_{\rm m}\sin\omega t
+2026-02-02T10:12:54.950879797Z            ^
+2026-02-02T10:12:54.950884754Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950890683Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950904484Z [WARNING] Could not convert TeX math L \, {\rm d}i/{\rm d}t, rendering as TeX:
+2026-02-02T10:12:54.950910023Z   L \, {\rm d}i/{\rm d}t
+2026-02-02T10:12:54.950915040Z             ^
+2026-02-02T10:12:54.950920078Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950925055Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950939057Z [WARNING] Could not convert TeX math L \, {\rm d}i/{\rm d}t, rendering as TeX:
+2026-02-02T10:12:54.950944625Z   L \, {\rm d}i/{\rm d}t
+2026-02-02T10:12:54.950949693Z             ^
+2026-02-02T10:12:54.950954971Z   unexpected control sequence \rm
+2026-02-02T10:12:54.950960039Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.950978286Z [WARNING] Could not convert TeX math V_{\rm m} = \omega L I_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.950988312Z   V_{\rm m} = \omega L I_{\rm m}
+2026-02-02T10:12:54.950993519Z          ^
+2026-02-02T10:12:54.950998427Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951003495Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951009053Z [WARNING] Could not convert TeX math V_{\rm m}/I_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.951014361Z   V_{\rm m}/I_{\rm m}
+2026-02-02T10:12:54.951019519Z          ^
+2026-02-02T10:12:54.951024627Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951029574Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951042634Z [WARNING] Could not convert TeX math X_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.951048163Z   X_{\rm L}
+2026-02-02T10:12:54.951053180Z          ^
+2026-02-02T10:12:54.951058178Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951063205Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951084087Z [WARNING] Could not convert TeX math X_{\rm L} = V_{\rm m}/I_{\rm m} = \omega L, rendering as TeX:
+2026-02-02T10:12:54.951089495Z   X_{\rm L} = V_{\rm m}/I_{\rm m} = \omega
+2026-02-02T10:12:54.951094563Z          ^
+2026-02-02T10:12:54.951099671Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951104759Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951110587Z [WARNING] Could not convert TeX math X_{\rm L} = 2\pi f L, rendering as TeX:
+2026-02-02T10:12:54.951116186Z   X_{\rm L} = 2\pi f L
+2026-02-02T10:12:54.951121474Z          ^
+2026-02-02T10:12:54.951126482Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951131619Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951150067Z [WARNING] Could not convert TeX math v = V_{\rm m} \sin \omega t, rendering as TeX:
+2026-02-02T10:12:54.951155406Z   v = V_{\rm m} \sin \omega t
+2026-02-02T10:12:54.951160754Z              ^
+2026-02-02T10:12:54.951165871Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951171340Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951187484Z [WARNING] Could not convert TeX math I_{\rm m} = \omega C V_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.951193253Z   I_{\rm m} = \omega C V_{\rm m}
+2026-02-02T10:12:54.951198411Z          ^
+2026-02-02T10:12:54.951203439Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951208576Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951214465Z [WARNING] Could not convert TeX math V_{\rm m}/I_{\rm m}, rendering as TeX:
+2026-02-02T10:12:54.951219693Z   V_{\rm m}/I_{\rm m}
+2026-02-02T10:12:54.951224741Z          ^
+2026-02-02T10:12:54.951229799Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951234806Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951247476Z [WARNING] Could not convert TeX math X_{\rm C}, rendering as TeX:
+2026-02-02T10:12:54.951253104Z   X_{\rm C}
+2026-02-02T10:12:54.951258202Z          ^
+2026-02-02T10:12:54.951263650Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951268768Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951291923Z [WARNING] Could not convert TeX math X_{\rm C} = V_{\rm m}/I_{\rm m} = 1/\omega C, rendering as TeX:
+2026-02-02T10:12:54.951297552Z   X_{\rm C} = V_{\rm m}/I_{\rm m} = 1/\ome
+2026-02-02T10:12:54.951302629Z          ^
+2026-02-02T10:12:54.951307627Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951312655Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951318293Z [WARNING] Could not convert TeX math \tan \phi = V_{\rm L}/V_{\rm R}, rendering as TeX:
+2026-02-02T10:12:54.951323351Z   \tan \phi = V_{\rm L}/V_{\rm R}
+2026-02-02T10:12:54.951328509Z                      ^
+2026-02-02T10:12:54.951333476Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951338444Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951351003Z [WARNING] Could not convert TeX math \cos \phi = V_{\rm R}/V, rendering as TeX:
+2026-02-02T10:12:54.951361309Z   \cos \phi = V_{\rm R}/V
+2026-02-02T10:12:54.951367939Z                      ^
+2026-02-02T10:12:54.951372906Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951377924Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951391815Z [WARNING] Could not convert TeX math V_{\rm R} = IR, rendering as TeX:
+2026-02-02T10:12:54.951396993Z   V_{\rm R} = IR
+2026-02-02T10:12:54.951402000Z          ^
+2026-02-02T10:12:54.951407058Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951412126Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951429903Z [WARNING] Could not convert TeX math V_{\rm L} = IX_{\rm L}, rendering as TeX:
+2026-02-02T10:12:54.951435171Z   V_{\rm L} = IX_{\rm L}
+2026-02-02T10:12:54.951440128Z          ^
+2026-02-02T10:12:54.951445126Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951450364Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951456463Z [WARNING] Could not convert TeX math V^2 = (IR)^2 + (IX_{\rm L})^2 = I^2(R^2 + X_{\rm L}^2), rendering as TeX:
+2026-02-02T10:12:54.951461751Z    (IR)^2 + (IX_{\rm L})^2 = I^2(R^2 + X_{
+2026-02-02T10:12:54.951466909Z                      ^
+2026-02-02T10:12:54.951471857Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951476844Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951499659Z [WARNING] Could not convert TeX math 17.5 \quad v = v_{\rm R} + \frac{1}{RC} \int v_{\rm R} \, \mathrm{d}t, rendering as TeX:
+2026-02-02T10:12:54.951505508Z   5 \quad v = v_{\rm R} + \frac{1}{RC} \in
+2026-02-02T10:12:54.951510776Z                      ^
+2026-02-02T10:12:54.951515934Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951521091Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.951527191Z [WARNING] Could not convert TeX math (L_{\rm a} + L_{\rm L}) \frac{\mathrm{d}i_{\rm a}}{\mathrm{d}t} + (R_{\rm a} + R_{\rm L})i_{\rm a} - k_1 \frac{\mathrm{d}\theta}{\mathrm{d}t} = 0, I \frac{\mathrm{d}^2\theta}{\mathrm{d}t^2} + B \frac{\mathrm{d}\theta}{\mathrm{d}t} + k_2 i_{\rm a} = T, rendering as TeX:
+2026-02-02T10:12:54.951533520Z   (L_{\rm a} + L_{\rm L}) \frac{\mathrm{d}
+2026-02-02T10:12:54.951538648Z           ^
+2026-02-02T10:12:54.951543746Z   unexpected control sequence \rm
+2026-02-02T10:12:54.951548794Z   expecting "%", "\\label", "\\tag", "\\nonumber", whitespace or "\\allowbreak"
+2026-02-02T10:12:54.952538117Z Successfully created: /app/output/Mechatronics_Electronic_Control_Systems_in_Mechan_3704488_(z-lib.org).epub
+2026-02-02T10:12:54.952544477Z DONE. File ready at: /app/output/Mechatronics_Electronic_Control_Systems_in_Mechan_3704488_(z-lib.org).epub
+2026-02-02T10:12:54.952806876Z Processing: UAV step-by-step.pdf
+2026-02-02T10:12:54.952812254Z --- parsing UAV step-by-step.pdf with Marker ---
+2026-02-02T10:12:54.952897594Z Running Marker (OCR=ENABLED)...
